@@ -1,0 +1,3290 @@
+Name|LAT|LON
+"mytweetmark"|37.387474|-122.057543
+"Love Lab®"|34.052234|-118.243685
+"Social Rewards"|34.052234|-118.243685
+"Hey Gorgeous!"|40.712784|-74.005941
+"Symfonie P2P"|51.507351|-0.127758
+"ComboTrip"|35.085334|-106.605553
+"MarketMuse"|42.360083|-71.05888
+"Power-Tags"|32.0853|34.781768
+"Maker"|37.77493|-122.419416
+"HomeKeepr"|40.058324|-74.405661
+"LVX Elektronik A.Ş."|37.874643|32.493155
+"Trio Custom Clothiers"|33.748995|-84.387982
+"Guiddoo World"|25.204849|55.270783
+"POLCO"|30.674364|-96.369963
+"PlanDo"|22.396428|114.109497
+"Elastera"|51.507351|-0.127758
+"Gypsy Shack"|28.613939|77.209021
+"Divisible Domain"|42.331427|-83.045754
+"Patient-Help"|12.971599|77.594563
+"TENDERWEEK.com"|41.299496|69.240073
+"Sensentia "|37.77493|-122.419416
+"GeoMoby"|-31.953513|115.857047
+"Medigram"|37.385218|-122.11413
+"Search in MENA"|37.77493|-122.419416
+"ThynkWare Innovation"|37.386052|-122.083851
+"MyCity"|60.173324|24.941025
+"Birdzi"|40.575382|-74.32237
+"Menuat"|29.901244|-81.312434
+"HAKU"|34.090009|-118.361744
+"Osblue"|38.894279|-77.431099
+"ProTenders"|45.501689|-73.567256
+"BondIt"|34.07362|-118.400356
+"Phin & Phebes Ice Cream"|40.712784|-74.005941
+"Skimo TV"|37.387474|-122.057543
+"Pet Wireless"|32.715738|-117.161084
+"Lowdown"|51.507351|-0.127758
+"SEAL Innovation"|35.77959|-78.638179
+"CamFind"|34.052234|-118.243685
+"Orkiv "|42.360083|-71.05888
+"Stellar Research"|33.448377|-112.074037
+"Color Talking"|23.684994|90.356331
+"Aqua Design Innovations (ADI Ventures)"|32.715738|-117.161084
+"Vamos - The Event Guide"|52.520007|13.404954
+"Join2Link"|36.204824|138.252924
+"BookedWith"|33.567684|-117.725608
+"KEOIS"|33.717471|-117.831143
+"CREATE.IT"|34.052234|-118.243685
+"HomeTrackr"|32.776475|-79.931051
+"The Cherry Share"|37.36883|-122.03635
+"UberOnTime.com"|34.052234|-118.243685
+"SKARA - The Blade Remains"|51.507351|-0.127758
+"Top Flight Technologies"|42.360083|-71.05888
+"Textbook Sharing System"|20.111912|77.131259
+"TonPsy"|43.604652|1.444209
+"BlueOtter"|40.440625|-79.995886
+"CashBet"|37.77493|-122.419416
+"Hexagon Lavish"|33.748995|-84.387982
+"dondeEsta"|42.360083|-71.05888
+"SkillGravity"|37.77493|-122.419416
+"School Scout"|37.354108|-121.955236
+"startbuy"|4.710989|-74.072092
+"Well Beyond Care"|30.267153|-97.743061
+"Avenueplanet "|25.76168|-80.19179
+"Worthworm"|33.49417|-111.926052
+"Revue Labs"|34.052234|-118.243685
+"Planemo Studio"|27.751828|-82.626734
+"anchor.travel"|55.755826|37.6173
+"Yo! app : Be Social At Local"|18.52043|73.856744
+"SeeIn Systems"|37.338208|-121.886329
+"Alminder"|37.441883|-122.143019
+"VoidBrains"|38.910833|-75.52767
+"Alienplay Games"|32.715738|-117.161084
+"Digital Perception"|53.349805|-6.26031
+"QuantQ3"|51.507351|-0.127758
+"Mobile Muse Apps"|40.760779|-111.891047
+"FarmUp"|23.634501|-102.552784
+"COMPRANDOFACIL"|6.253041|-75.564574
+"StoreGenie "|44.977753|-93.265011
+"ivory sands safari & beach lodges"|-25.475298|30.969416
+"VastyData"|53.408371|-2.991573
+"Dockerize.It"|40.416775|-3.70379
+"Picotek"|42.373616|-71.109733
+"Pay2Africa"|47.60621|-122.332071
+"Restaurant Nyonya Suan"|4.210484|101.975766
+"Vine World"|36.169941|-115.13983
+"Cokonnect"|64.126521|-21.817439
+"ADAD"|38.559772|68.787038
+"ilankedisi.com"|41.008238|28.978359
+"SINGAPORE STANDARD"|1.352083|103.819836
+"Acumagnet"|32.259315|-90.422595
+"Blow Me Hair App "|34.052234|-118.243685
+"Blow Me Hair App "|34.052234|-118.243685
+"Foodoozle.com"|26.318412|-80.099766
+"TechPepper"|42.360083|-71.05888
+"Live2Create Foundation for the Arts"|4.570868|-74.297333
+"Gentlemen' Basics"|45.501689|-73.567256
+"Westphalian Energy"|42.360083|-71.05888
+"Bot Colony Productions"|45.501689|-73.567256
+"HomeQ - UK Property Questions & Answers"|51.507351|-0.127758
+"Premium Financing R Us"|34.142508|-118.255075
+"Premium Financing R Us"|34.142508|-118.255075
+"BEARING DATA"|-23.55052|-46.633309
+"Sideric"|60.173324|24.941025
+"Livento Investments"|40.712784|-74.005941
+"Fortune 500 Marketing Solutions"|26.715342|-80.053375
+"www,bluesky.today"|50.375457|-4.142656
+"Everest"|37.77493|-122.419416
+"Gymbud"|40.712784|-74.005941
+"EHONISSA"|45.501689|-73.567256
+"HomeOjO"|37.441883|-122.143019
+"Femonoe"|37.77493|-122.419416
+"GRINTLY"|55.755826|37.6173
+"Eventshot"|37.566535|126.977969
+"Australian MOOC Academy"|-33.867487|151.20699
+"Gift Of A Helping Hand Charitable TR"|42.331427|-83.045754
+"Poolhouse"|43.653226|-79.383184
+"Nutrit"|40.417287|-82.907123
+"NaturelBiotech"|23.634501|-102.552784
+"goNext"|25.686614|-100.316113
+"TIBB"|32.0853|34.781768
+"BarNY"|55.008353|82.935733
+"BarNY"|55.008353|82.935733
+"GovBrain"|38.907192|-77.036871
+"Imua"|41.878114|-87.629798
+"Converti.co"|33.448377|-112.074037
+"laserde.com"|52.520007|13.404954
+"UAB Photo1Moment"|55.934909|23.313682
+"Indago"|34.052234|-118.243685
+"Vidspoke"|43.653226|-79.383184
+"Eyon Network Security"|37.45296|-122.181725
+"Moneyworks"|37.45296|-122.181725
+"Madfoo3atCom for ePayments, PSC"|31.956578|35.945695
+"VR Tech Labs"|17.385044|78.486671
+"Hellosuckers Capital Management"|51.489015|-2.060458
+"WeddingAdvisor"|35.085334|-106.605553
+"Minamate"|34.139729|-118.035345
+"HardDrones"|42.878213|-8.544844
+"Pipe Wipes"|36.169941|-115.13983
+"GameDate"|43.08313|-73.784565
+"Listinghack"|28.538336|-81.379236
+"Soundtracks.io"|40.712784|-74.005941
+"Telemedicine24.org"|20.96737|-89.592586
+"SII"|38.907192|-77.036871
+"fotovio"|48.135125|11.581981
+"Destaca.me"|42.878213|-8.544844
+"TechConnectr"|37.354108|-121.955236
+"Traderous"|33.748995|-84.387982
+"Musicinfo"|62.244747|25.747218
+"Tweetdelay"|51.441642|5.469722
+"Ekaay Typeless Login"|19.075984|72.877656
+"Kutoa"|43.653226|-79.383184
+"SinCity Steampunk Dolls"|36.198859|-115.117501
+"Medstro"|42.360083|-71.05888
+"SVR"|40.058324|-74.405661
+"The Original Brand Corporaton"|28.538336|-81.379236
+"CLOUDSCLOCK"|37.77493|-122.419416
+"2wenty7even"|19.075984|72.877656
+"Super Turbine"|31.230416|121.473701
+"Royal Spitfire"|51.507351|-0.127758
+"Betify"|51.507351|-0.127758
+"Racedingo"|44.763057|-85.620632
+"English Connection"|37.566535|126.977969
+"MoonRabbit Design Studios"|-30.559482|22.937506
+"Cosmic Games"|-31.953513|115.857047
+"prana.co"|37.77493|-122.419416
+"BollywoodTickets.com"|40.712784|-74.005941
+"Autotall"|-31.420083|-64.188776
+"DATANEXT"|47.376887|8.541694
+"NAMU"|52.229676|21.012229
+"Education.bg"|42.733883|25.48583
+"Farmacias Inteligentes 24 "|20.96737|-89.592586
+"1st Wellness & Performance"|33.748995|-84.387982
+"ElfBite"|60.128161|18.643501
+"TheCopperCop"|32.715738|-117.161084
+"Fans Cloth ID"|-7.575489|110.824327
+"eMERAHAAT RETAIL PRIVATE"|22.572646|88.363895
+"BEE"|37.77493|-122.419416
+"Social4Social"|45.465422|9.185924
+"JóòMah"|40.712784|-74.005941
+"best sport drinks"|45.501689|-73.567256
+"FoodTrace"|41.878114|-87.629798
+"Fractal Systems"|27.751828|-82.626734
+"Walter Smith & Tru Praize"|42.331427|-83.045754
+"Kalos Media"|51.507351|-0.127758
+"ECG healthcare system"|45.267135|19.83355
+"Selxfy App"|51.507351|-0.127758
+"ONPLACE.ME"|61.52401|105.318756
+"Flood Valley Brewing"|38.907192|-77.036871
+"The420effect.com"|36.778261|-119.417932
+"Limitless: Outerwear"|42.360083|-71.05888
+"Catoctin College"|38.907192|-77.036871
+"Jobbox"|37.77493|-122.419416
+"Makoo Jewels"|41.902784|12.496366
+"TransAction Group"|51.507351|-0.127758
+"Tevatronic"|31.804381|34.655314
+"Alinemar Group"|45.696475|27.184043
+"Personal Assistant Plus"|33.473498|-82.010515
+"supscri.be"|20.593684|78.96288
+"sounderbox"|47.218371|-1.553621
+"Yconomus"|1.352083|103.819836
+"eCash.com"|37.09024|-95.712891
+"CARPEDIEM"|9.30769|2.315834
+"SVP Systems"|40.179186|44.499103
+"Kiseguro"|22.396428|114.109497
+"Recommend.ly"|37.77493|-122.419416
+"Bounce Industries"|31.230416|121.473701
+"Design Credits"|6.927079|79.861243
+"LinkPad"|39.290385|-76.612189
+"Brewed In Chicago"|41.878114|-87.629798
+"Kydalov & Partners"|50.4501|30.5234
+"TISZAI MEDIA"|28.083627|-80.608109
+"Fusion Services of Florida"|27.664827|-81.515754
+"Lucky 7 Angels"|37.77493|-122.419416
+"TV Tog "|25.204849|55.270783
+"Refuel Group Fitness"|43.04673|-77.095252
+"Winner Takes All"|52.370216|4.895168
+"Project Airplane"|-14.235004|-51.92528
+"Digital Marketing Courses"|13.08268|80.270718
+"Agora"|48.379433|31.16558
+"Voyz.es"|37.45296|-122.181725
+"Mile High Hempfest"|39.739236|-104.990251
+"ISocial "|37.207906|-4.657306
+"TixAlert "|32.715738|-117.161084
+"Market Analyst"|38.882334|-77.171091
+"Benefit"|42.96336|-85.668086
+"Desire"|47.158455|27.601442
+"www.crowdfundtrips.com"|12.971599|77.594563
+"WEARTECH INC. "|37.77493|-122.419416
+"3P eVentures"|25.354826|51.183884
+"Unique Lab Services"|33.448377|-112.074037
+"Figure"|47.60621|-122.332071
+"Linkia Soluções de E-commerce"|-19.916681|-43.934493
+"White-Out Reviews"|41.081445|-81.519005
+"Epic Studios"|50.159459|7.359079
+"Viridi Technology "|39.768403|-86.158068
+"Unium"|55.755826|37.6173
+"Myster"|38.907192|-77.036871
+"Mentor Lane"|50.110922|8.682127
+"Unique Lab Services"|33.448377|-112.074037
+"AtYourService"|35.126413|33.429859
+"PORTAL Music Festival"|46.878718|-113.996586
+"MB Trading VN"|21.027764|105.83416
+"Better Energy"|41.878114|-87.629798
+"Cruisapalooza"|42.360083|-71.05888
+"OfficeRiders"|37.77493|-122.419416
+"Commerce Futurists"|40.760779|-111.891047
+"Admirchi"|18.52043|73.856744
+"Green Web Design"|24.299174|54.697277
+"BUSINESS DEVELOPMENT NETWORK"|33.985047|-118.469483
+"FallFor"|40.712784|-74.005941
+"Too Much Sense Productions"|30.267153|-97.743061
+"SmashMouth Fantasy Sports"|25.790654|-80.130045
+"Nebel.TV"|37.386052|-122.083851
+"Sentinel web technologies"|51.507351|-0.127758
+"gde.ru - online classifieds"|61.52401|105.318756
+"Integralsoft"|-17.413977|-66.165322
+"Flash Messenger"|38.907192|-77.036871
+"MyBeeble"|33.42551|-111.940005
+"CrowdFund Beat Media Group"|37.386052|-122.083851
+"eJobba.com"|33.42551|-111.940005
+"SoapBox"|37.983917|23.72936
+"Acegamingsoftware "|48.135125|11.581981
+"www.dbateria.com"|40.416775|-3.70379
+"achatlaser.com"|48.856614|2.352222
+"Bitcoin Brothers S.R.L"|-38.416097|-63.616672
+"SanFranSEO"|37.77493|-122.419416
+"Perfect Pizza Company"|45.357343|-122.606758
+"Perform Pro"|53.349805|-6.26031
+"Dasα"|23.022505|72.571362
+"mod12"|41.008238|28.978359
+"MOSIGAH"|48.856614|2.352222
+"iHang Media "|33.448377|-112.074037
+"OUTview TV"|47.60621|-122.332071
+"BulkmailVps"|37.09024|-95.712891
+"Media BCD / Concerto Records"|45.501689|-73.567256
+"3Dogs Innovations"|39.952584|-75.165222
+"GTS CENTRAL EUROPE ZRT"|47.162494|19.503304
+"JIN Technologies"|40.357298|-74.667223
+"Shannon's Gourmet"|39.290385|-76.612189
+"Placeview.in"|50.4501|30.5234
+"Haggell"|28.083627|-80.608109
+"Umbrella"|53.759594|87.12157
+"QuantCore Capital Management"|38.910833|-75.52767
+"Guardian Technologies "|40.58526|-105.084423
+"Chattanooga Express Inc "|40.768434|-74.145421
+"Bauws"|4.710989|-74.072092
+"Cohaper"|43.653226|-79.383184
+"LiTeAfrica"|39.739236|-104.990251
+"IT Bowl Web Design & SEO"|37.77493|-122.419416
+"Arch Advantage"|35.04563|-85.30968
+"Wireheads Labs In"|45.638728|-122.661486
+"Virtual Las Vegas"|36.169941|-115.13983
+"Onarbor"|42.373616|-71.109733
+"AudioSnaps"|41.385064|2.173403
+"ProVivoX"|45.501689|-73.567256
+"MindQube "|36.977173|-121.899402
+"LiTeClick"|47.497912|19.040235
+"Pagido"|52.520007|13.404954
+"Altruus "|30.267153|-97.743061
+"EduToday"|59.93428|30.335099
+"cycle.io"|37.77493|-122.419416
+"Rachel'Z  Cakes & Coffee"|38.029306|-78.476678
+"returnhelp"|31.554606|74.357158
+"Michael De Paulo"|40.712784|-74.005941
+"Longman Suntech Energy Pvt."|19.075984|72.877656
+"PurpleCloud Technologies"|39.952584|-75.165222
+"Quick Hang door installing systems"|-33.867487|151.20699
+"maxMustermann"|40.712784|-74.005941
+"Exchange Recovery Tool"|3.321334|-76.235361
+"Ensemble Online"|36.746842|-119.772587
+"SLC Valve Repair Services L.L.C"|41.355654|-72.099521
+"Goldman Global & Greene (3G)"|40.712784|-74.005941
+"Pvrenet"|43.61871|-116.214607
+"Nauchi me"|42.697708|23.321868
+"Yardarm Technologies "|36.975228|-121.953293
+"CLT+"|35.227087|-80.843127
+"STARS COMMUNITY DEVELOPMENT"|36.169941|-115.13983
+"Truth Be Told Productions"|39.952584|-75.165222
+"MashDrop"|34.146647|-118.807373
+"Profit Shastra"|18.52043|73.856744
+"PRmoter"|44.786568|20.448922
+"Jewelers Link"|34.052234|-118.243685
+"jefonline"|35.689488|139.691706
+"Kwangl"|22.396428|114.109497
+"Bunni's Vintage Boutique & Cafe"|29.951066|-90.071532
+"EasyEye"|32.776664|-96.796988
+"Trash Riot"|36.169941|-115.13983
+"Planet Hydra"|34.052234|-118.243685
+"Candyland"|-36.84846|174.763332
+"Great Insurance (GI)"|22.396428|114.109497
+"SwiftLaunch"|45.638728|-122.661486
+"Promoto"|41.008238|28.978359
+"CgC Daily"|34.052234|-118.243685
+"Qlientstream "|59.6099|16.544809
+"Sharp SEO Services"|30.36742|-89.092816
+"IMOSNAP"|51.17089|5.166828
+"ARPS"|44.786568|20.448922
+"CORI.IO"|37.77493|-122.419416
+"Pixeplus"|38.581572|-121.4944
+"MamedovCo"|28.279756|78.010976
+"OUKSHEN"|49.398752|8.672434
+"Spinbackup"|39.739072|-75.539788
+"igroup"|51.507351|-0.127758
+"VIKĀSA"|44.426767|26.102538
+"Zenit"|53.241504|50.221246
+"Qaribo"|18.486058|-69.931212
+"Mzines Digital"|47.60621|-122.332071
+"ebooxter"|44.786568|20.448922
+"Fallterms"|40.335648|-75.926875
+"Guud"|47.60621|-122.332071
+"We Do events & wedding Planning "|30.04442|31.235712
+"FaceReview"|39.920541|-105.08665
+"Munarsh I.T Service"|24.861462|67.009939
+"WINE PROJECT S.A.S."|48.863812|2.448451
+"YUKANG International"|40.712784|-74.005941
+"YouJoin"|51.507351|-0.127758
+"IFA Prowear"|39.755543|-105.2211
+"Robiee"|32.514947|-117.038247
+"International Power & Energy"|41.671765|-72.94927
+"Bizigo OTA"|14.058324|108.277199
+"Dashboards to Desktops"|25.908706|-80.308662
+"Foogi"|-33.867487|151.20699
+"BuckGet.com"|40.440625|-79.995886
+"BuckGet.com"|40.440625|-79.995886
+"hulabuk"|51.507351|-0.127758
+"MGI Productions"|32.776664|-96.796988
+"Game Rocket Studio"|37.871593|-122.272747
+"Dentinal Tubules"|51.507351|-0.127758
+"THT Films"|33.857328|-84.019911
+"SWOX"|48.135125|11.581981
+"Attensee"|52.406374|16.925168
+"NewHaus"|32.514947|-117.038247
+"Any Tasker"|30.733315|76.779418
+"Stallion Rockshore"|58.377625|26.729006
+"Barterd.in"|12.971599|77.594563
+"FINEX MEDIA SERVICES"|28.613939|77.209021
+"Trioed"|-33.867487|151.20699
+"LinkedAge"|46.056947|14.505751
+"Imm'@gile"|48.856614|2.352222
+"Thank You."|46.186561|21.312268
+"Corridor Transit"|35.46756|-97.516428
+"CheckDroid"|33.748995|-84.387982
+"BEQ INVESTMENT"|4.710989|-74.072092
+"Cityglobe"|40.712784|-74.005941
+"Squarecoins.com"|28.613939|77.209021
+"Circonference"|45.501689|-73.567256
+"Alpha "|37.77493|-122.419416
+"Exhale"|44.426767|26.102538
+"Tonelive"|46.729553|-94.6859
+"Federal Baseball"|38.901223|-77.26526
+"Inquisto"|13.08268|80.270718
+"BitcoinsWatch"|40.712784|-74.005941
+"NOT YET CHOSEN"|51.507351|-0.127758
+"Maoni"|55.755826|37.6173
+"Drupal Development Milan"|45.465422|9.185924
+"Bulldog Digital Media"|34.052234|-118.243685
+"MIR Apparel"|40.712784|-74.005941
+"WexPortal"|49.19506|16.606837
+"The Haleem Campus (schools )"|31.554606|74.357158
+"Kampung Quest"|3.139003|101.686855
+"Galef"|51.507351|-0.127758
+"Bella Lounge"|29.760427|-95.369803
+"resQRant"|33.717471|-117.831143
+"D'Vine Events & Entertainment "|35.227087|-80.843127
+"GET THE DEAL NOW"|22.396428|114.109497
+"Verge"|48.379433|31.16558
+"AfroTrapMedia "|51.507351|-0.127758
+"HalifaxBusiness.com"|54.687156|25.279651
+"FromMap"|37.77493|-122.419416
+"inkSIG digital"|44.977753|-93.265011
+"The School Day"|32.715738|-117.161084
+"Atlas Conserve"|-1.292066|36.821946
+"osmartex and company Nig"|6.524379|3.379206
+"DevJournal"|45.039267|38.987221
+"Black Bird"|-6.283522|106.711293
+"Krave Greatness"|41.252363|-95.997988
+"Urban Style Academy"|39.961176|-82.998794
+"Amogam eBusiness"|13.08268|80.270718
+"AyeTraye Productions "|33.748995|-84.387982
+"Fresh Vibes"|34.924867|-81.025078
+"Musican"|46.482526|30.72331
+"All Marble Tiles"|40.712784|-74.005941
+"Appiquest"|47.218371|-1.553621
+"Curious LabX"|24.861462|67.009939
+"Coversant"|38.752124|-121.288006
+"ANIMATE AND SAVE WILDLIFE"|41.008238|28.978359
+"Market Prophet"|37.338208|-121.886329
+"Serrurier antibes "|43.580418|7.125102
+"Stylenda"|33.985047|-118.469483
+"uminca"|37.804364|-122.271114
+"B.R.A.T. Diet"|35.282752|-120.659616
+"Mity Nice"|42.280826|-83.743038
+"RUE CINQ"|25.76168|-80.19179
+"Nazarite Media"|28.538336|-81.379236
+"Klinns"|39.074208|21.824312
+"None"|56.130366|-106.346771
+"Bc267 Cartooning Company"|39.952584|-75.165222
+"SWB"|38.907192|-77.036871
+"PushVendor"|31.761878|-106.485022
+"VGO"|37.387474|-122.057543
+"ChefsNshape"|42.360083|-71.05888
+"Cannby"|45.523062|-122.676482
+"Come Bien"|19.432608|-99.133208
+"JP Investment"|37.09024|-95.712891
+"Make Fashion"|47.60621|-122.332071
+"Linda"|6.524379|3.379206
+"CaptainLeads"|34.052234|-118.243685
+"edIQ"|39.952584|-75.165222
+"Deespatch"|43.580418|7.125102
+"Sling"|32.0853|34.781768
+"The Seven 5"|36.850769|-76.285873
+"EUROGROUP INDUSTRIAL KITCHENWARE"|51.160523|71.470356
+"Blue, Red and  Green"|41.081445|-81.519005
+"MIB Systems"|39.952584|-75.165222
+"YWMobile"|37.566535|126.977969
+"Glory"|47.60621|-122.332071
+"VC Fund (India) "|19.075984|72.877656
+"Ballcapp"|52.090737|5.12142
+"Clubs in NYC"|40.712784|-74.005941
+"Inksav.com"|4.710989|-74.072092
+"Top World Traders"|44.426767|26.102538
+"Herocondoms"|-33.283577|149.10127
+"coJuvo"|47.60621|-122.332071
+"Zstat"|42.373616|-71.109733
+"Aurora Global"|20.659699|-103.349609
+"DaddyMotors"|55.755826|37.6173
+"Travelience"|35.689488|139.691706
+"Yssete"|40.712784|-74.005941
+"Quantum Therapeutics "|26.122439|-80.137317
+"Better: The Game"|41.008238|28.978359
+"TheStartupJournal"|20.296059|85.82454
+"Lifestyle Design Co."|35.689488|139.691706
+"Xcelthera"|32.715738|-117.161084
+"OpipariDesignGroup"|42.48948|-83.144649
+"Splitzee"|42.360083|-71.05888
+"Penny Stock Dream"|40.712784|-74.005941
+"Ctartup"|26.820553|30.802498
+"DGTS"|37.77493|-122.419416
+"Hillpoint Enterprise Inc. DBA Handy Mart"|47.60621|-122.332071
+"SafeLain"|30.267153|-97.743061
+"Hehecook Inc,Co"|37.77493|-122.419416
+"Delphi Amphitheater"|36.169941|-115.13983
+"247 FINANCE DEAL COMPANY, INC., "|44.466994|-73.17096
+"PlayZa"|32.165622|-82.900075
+"EntiRx Technologies"|17.385044|78.486671
+"EDB to PST PRO Converter"|3.321334|-76.235361
+"House of Swag"|43.16103|-77.610922
+"Lindora"|9.928069|-84.090725
+"Scholomance"|45.943161|24.96676
+"Pic Space"|42.360083|-71.05888
+"Youtubevarsity"|20.593684|78.96288
+"Taskbiller"|53.349805|-6.26031
+"Super Adventure Mega Quest"|45.638728|-122.661486
+"LIQUORBOX"|40.712784|-74.005941
+"Let It Shine Auto Motorcycle Detailing"|40.52062|-81.474005
+"Quezzle"|50.4501|30.5234
+"DOLL AND DUDE AVENUE"|3.127887|101.594489
+"Pitch Fade"|34.052234|-118.243685
+"ToastyTote"|38.982228|-94.670792
+"BuyMentions.com"|37.77493|-122.419416
+"Exchange EDB Converter"|3.321334|-76.235361
+"Itzpapalotl- An Independant Short"|37.77493|-122.419416
+"Rental Geek"|38.982228|-94.670792
+"Riselo"|-6.917464|107.619123
+"Web Development Las Vegas"|37.09024|-95.712891
+"2Event.com"|48.379433|31.16558
+"4Virtuals"|32.776664|-96.796988
+"Knitle"|7.377536|3.94704
+"Sellton"|48.379433|31.16558
+"Jan's Custom Rides"|43.544596|-96.731103
+"SharesPost 100 Fund"|37.387474|-122.057543
+"Mogribu "|-4.441931|15.266293
+"JeyJeCa"|4.710989|-74.072092
+"Food To Grow On"|39.952584|-75.165222
+"Store With Me"|36.169941|-115.13983
+"Coopers Lawn and Grounds Care"|39.266742|-81.561513
+"PalmyraSweet"|44.977753|-93.265011
+"BioHealthonomics "|34.019454|-118.491191
+"MS Exchange Server Recovery"|3.321334|-76.235361
+"Off the grid Cubes"|35.91537|-94.969956
+"Zank & Company"|28.083627|-80.608109
+"Zebra"|33.985047|-118.469483
+"EZY-Booking.com Number 1 Booking Agency"|13.756331|100.501765
+"Professional Technology Services"|41.49932|-81.694361
+"sensato"|40.712784|-74.005941
+"Ez3D"|40.58526|-105.084423
+"Smash Solutions"|40.760779|-111.891047
+"Phillip Lanier, Lanier Music Services"|38.907192|-77.036871
+"WP Elevate"|33.448377|-112.074037
+"Float Away"|35.77959|-78.638179
+"TruClinic"|40.760779|-111.891047
+"Pulse Radio SA "|-33.924868|18.424055
+"Rent A Gent"|40.712784|-74.005941
+"Oohly"|39.099727|-94.578567
+"Red Leaf Capital"|41.878114|-87.629798
+"Wheely"|40.712784|-74.005941
+"Manalto"|34.052234|-118.243685
+"Política Esporte Clube"|-19.916681|-43.934493
+"eVOLV Fitness"|35.085334|-106.605553
+"RocketUpwards"|51.507351|-0.127758
+"Gutenbergz"|46.482526|30.72331
+"iYaboo"|23.12911|113.264385
+"Northwest Memorial Medical Center"|29.187199|-82.140092
+"Northwest Memorial Medical Center"|29.651634|-82.324826
+"Psykosoft"|42.373616|-71.109733
+"bifuncional"|4.570868|-74.297333
+"HybridSite"|41.49932|-81.694361
+"The Grow Nature Co"|27.950575|-82.457178
+"Match Stat"|51.507351|-0.127758
+"Digital Sales"|23.634501|-102.552784
+"itsmytalk"|20.296059|85.82454
+"NoJack"|37.77493|-122.419416
+"TechFactsOnline.com"|6.524379|3.379206
+"Recruiting2.0"|55.755826|37.6173
+"ClinZen"|29.424122|-98.493628
+"module laser rouge 20mw"|33.660939|-95.555513
+"Brain N Brand"|19.075984|72.877656
+"Dandora Dumpsite Rehabilitation Group "|-1.292066|36.821946
+"Bliss Devices"|37.77493|-122.419416
+"Futbolitos"|19.432608|-99.133208
+"Collar"|53.349805|-6.26031
+"Line Up Media"|39.739072|-75.539788
+"Consulting Leaders Ltd "|51.507351|-0.127758
+"Objectifiers"|32.0853|34.781768
+"XxpressPay"|51.048615|-114.070846
+"Happy Sun Decor"|32.715738|-117.161084
+"PulseBeat"|37.77493|-122.419416
+"Foodivate"|34.052234|-118.243685
+"Superior Solar Solution"|34.052234|-118.243685
+"Next Glass"|39.739072|-75.539788
+"F3D Games"|51.507351|-0.127758
+"Rezonver"|55.755826|37.6173
+"Whispto"|51.507351|-0.127758
+"Umby Racks"|-33.867487|151.20699
+"FamousIdea"|27.664827|-81.515754
+"Peakfactor Solution"|20.593684|78.96288
+"Investfoot"|-35.675147|-71.542969
+"Trekking Hero"|-35.675147|-71.542969
+"Klinq"|36.169941|-115.13983
+"IoT.do - Internet of Things"|25.76168|-80.19179
+"NWG studios"|48.379433|31.16558
+"mine"|-19.916681|-43.934493
+"BidMonster Group"|-30.559482|22.937506
+"Monkey Paintball"|40.622048|-74.24459
+"Home Planning"|40.179186|44.499103
+"9amigo.com"|12.971599|77.594563
+"Social HQ"|39.768403|-86.158068
+"Tunnel Lab"|-0.023559|37.906193
+"Snap"|7.377536|3.94704
+"Crowdfunding Compliance Center"|40.678178|-73.944158
+"RueCentrale"|48.856614|2.352222
+"Gapedia.com"|31.968599|-99.901813
+"Pervhub"|39.952584|-75.165222
+"Spawnsong"|32.715738|-117.161084
+"Getourguide"|1.352083|103.819836
+"Jolancer"|9.076479|7.398574
+"Justin Chaplin Brown Studios"|38.907192|-77.036871
+"The Definition Of Nyce Company"|42.360083|-71.05888
+"American Dreaming INC. "|39.952584|-75.165222
+"Camonban"|14.058324|108.277199
+"Lady Flower"|33.748995|-84.387982
+"Q4 Nanosystems"|42.878213|-8.544844
+"MapDentist.com"|33.717471|-117.831143
+"Smoothbook"|51.507351|-0.127758
+"ArisingLand.com"|22.396428|114.109497
+"Imagi Visualize"|-6.208763|106.845599
+"TaskBeat"|53.428544|14.552812
+"Vibrasol"|25.204849|55.270783
+"vetidni.ru"|55.755826|37.6173
+"Same Day Dumpster Rental"|25.76168|-80.19179
+"Hydrobee"|47.60621|-122.332071
+"Hydrobee"|47.60621|-122.332071
+"Kiwii Capital"|42.360083|-71.05888
+"Disabled Enabled"|54.898521|23.903597
+"CrowdFranchise"|41.878114|-87.629798
+"The Balancing Act"|35.46756|-97.516428
+"ITHelping"|30.375321|69.345116
+"the great wall"|39.904211|116.407395
+"Dragon Fruit Communications"|43.653226|-79.383184
+"The Dream App"|25.204849|55.270783
+"Foster.ly"|37.77493|-122.419416
+"ANAJ food truck manufacturers."|28.459497|77.026638
+"Comestiibles"|44.837789|-0.57918
+"Healium"|37.77493|-122.419416
+"ENTvantage Dx"|30.267153|-97.743061
+"Visidom"|37.77493|-122.419416
+"Health Infotech Networks"|42.96336|-85.668086
+"Updeo"|52.520007|13.404954
+"GCP Solar"|5.603717|-0.186964
+"ArcticFox Group / Workaholics Management"|37.77493|-122.419416
+"Thinkcabs"|28.613939|77.209021
+"Miinnercircle"|27.965853|-82.800103
+"ArcaneCapital"|34.052234|-118.243685
+"Parrainage Hellobank"|48.390394|-4.486076
+"TAGPEN"|34.019454|-118.491191
+"BRI HOLLOWAY "|40.712784|-74.005941
+"Global Coupon "|45.638728|-122.661486
+"EvaGen"|42.360083|-71.05888
+"Shipey"|34.052234|-118.243685
+"Sunny's Kitchen"|17.385044|78.486671
+"Kwardrobe"|28.613939|77.209021
+"Star Flight Income"|40.712784|-74.005941
+"Zmenu"|37.57787|-122.34809
+"Velo Mobile Health"|43.653226|-79.383184
+"Healthdecisions.Us"|35.77959|-78.638179
+"Shoptsie"|46.369557|25.795366
+"JumpStartup"|28.459497|77.026638
+"Hashswag.it"|34.019454|-118.491191
+"Wingman "|40.712784|-74.005941
+"Wannawash"|55.755826|37.6173
+"Tecleor"|61.52401|105.318756
+"TEC - También es Cueca"|42.878213|-8.544844
+"Phoenix Capital Advisors"|41.355654|-72.099521
+"GameArx"|50.4501|30.5234
+"Formula206"|33.748995|-84.387982
+"Parsly"|50.9097|-1.404351
+"Mooshak Technologies"|18.52043|73.856744
+"Deal Stampede"|41.878114|-87.629798
+"Piggyback"|32.715738|-117.161084
+"QLH"|15.870032|100.992541
+"iCoach"|38.907192|-77.036871
+"The Nifty Penguin"|30.421309|-87.216915
+"Golf in Zone"|41.057319|-74.140977
+"Qualiall"|-27.815463|-50.326356
+"mozaico.mx"|25.686614|-100.316113
+"AbluWater"|38.907192|-77.036871
+"Bitwealth Systems"|9.081999|8.675277
+"LifeSwift"|45.188529|5.724524
+"Socioboard Technologies"|12.971599|77.594563
+"Bix Kenya"|-1.292066|36.821946
+"Bix Kenya"|-1.292066|36.821946
+"Soundflake"|37.441883|-122.143019
+"ImMissingYou"|34.052234|-118.243685
+"Setaway Tours"|21.17024|72.831061
+"Bottlerocket "|47.60621|-122.332071
+"Kufuma"|38.544907|-121.740517
+"Here Is How (ACQUI-HIRED by @policymic)"|40.712784|-74.005941
+"Kotodaam.com"|23.810332|90.412518
+"Bait Lotion"|34.052234|-118.243685
+"Sr. Pago"|19.432608|-99.133208
+"Intellectlife.com"|55.864237|-4.251806
+"CloudWorking"|33.748995|-84.387982
+"Metagoo"|37.36883|-122.03635
+"CrowdTwitch"|-26.204103|28.047305
+"Briceño's Academy Studios"|34.052234|-118.243685
+"onbranding"|41.385064|2.173403
+"Fatface Dining"|39.904211|116.407395
+"Promogram"|32.776664|-96.796988
+"Imperial Developments"|29.760427|-95.369803
+"Contract It"|31.179941|-83.788839
+"Prana Cafe (Jai LLC)"|32.715738|-117.161084
+"ChiswickBJJ"|51.507351|-0.127758
+"FrontCrew - Women who make Africa"|-33.924868|18.424055
+"iCalamity"|7.190708|125.455341
+"BetsUP"|42.878213|-8.544844
+"Waffirly"|30.585164|36.238414
+"kodan"|13.08268|80.270718
+" Naughty Girls Donut Shop"|38.918167|-78.194445
+"UltraCoin"|40.712784|-74.005941
+"EveryCook"|47.376887|8.541694
+"Togenit "|39.739072|-75.539788
+"Indus Aviation Systems"|18.52043|73.856744
+"CultFresh"|32.776664|-96.796988
+"Andrew Kaz"|40.712784|-74.005941
+"Luna Aerospace"|42.866632|-106.313081
+"Prestinver"|19.432608|-99.133208
+"Good Sign Productions"|42.331427|-83.045754
+"Pop Currency Foundation (Popular Coin)"|39.099727|-94.578567
+"Chrisari Entertainment"|9.081999|8.675277
+"Mysk"|34.052234|-118.243685
+"Inside Out Web Solutions"|35.77959|-78.638179
+"PyroZ Community Services"|34.052234|-118.243685
+"Fantrac "|51.507351|-0.127758
+"CC's Box"|38.907192|-77.036871
+"TeaMeet"|10.480594|-66.903606
+"New Horizons Ventures"|39.290385|-76.612189
+"Cuves Thermales"|52.939916|-73.549136
+"MeuTutor"|-9.649849|-35.708949
+"Health Sidekick"|33.542248|-117.78311
+"Fibras Andinas Chile: Royal Llama"|-35.675147|-71.542969
+"Recruitment Services"|18.52043|73.856744
+"biindoo ltd 邊度"|22.396428|114.109497
+"TribeSay"|38.918722|-77.231092
+"WiseGuy Records Studios LLC. "|42.497258|-82.937141
+"iRodeo"|31.968599|-99.901813
+"Businessconnect"|38.627003|-90.199404
+"mamfy.ru"|55.755826|37.6173
+"LoyalBe"|44.977753|-93.265011
+"Octodon"|56.838926|60.605703
+"Haddie Motion Picture"|34.746481|-92.289595
+"ProudBoard"|43.653226|-79.383184
+"ASHA"|26.044419|68.953879
+"Crowe and Company"|32.85462|-79.97481
+"posto7"|25.76168|-80.19179
+"Green Isle Film"|34.052234|-118.243685
+"NextPotential"|33.448377|-112.074037
+"Broadway Near You"|40.712784|-74.005941
+"DevBatch"|37.09024|-95.712891
+"DreamShare"|28.083627|-80.608109
+"Asset Dynamics"|40.712784|-74.005941
+"eyecarrot"|43.653226|-79.383184
+"Donson Window Tinting"|38.627003|-90.199404
+"Entej"|30.04442|31.235712
+"AppCoins"|40.416775|-3.70379
+"IPV ENERGIA"|41.227252|16.296641
+"WATfest"|22.396428|114.109497
+"PinchPoint"|31.898043|35.204271
+"AppSpin"|37.77493|-122.419416
+"Easyvibe"|55.755826|37.6173
+"Medical Tracking Solutions"|30.332184|-81.655651
+"Black Widow "|41.252363|-95.997988
+"answeryon"|19.432608|-99.133208
+"RentChek"|53.135509|-57.660436
+"ObjectiveProject"|33.748995|-84.387982
+"REO Capital"|42.331427|-83.045754
+"Unity Travel"|36.169941|-115.13983
+"Symfonie Angel Ventures, LP"|50.075538|14.4378
+"HIRE a HUMAN"|-33.867487|151.20699
+"R&J Entertainment"|37.780885|-90.421789
+"Derisq"|39.952584|-75.165222
+"Max Rights"|41.878114|-87.629798
+"Mobile2Me"|47.60621|-122.332071
+"mydress"|48.379433|31.16558
+"Fquare"|40.712784|-74.005941
+"DIY Renewables"|6.524379|3.379206
+"proContacts.pro"|56.949649|24.105186
+"Marques de la Mota"|34.052234|-118.243685
+"Cue Wines"|35.994033|-78.898619
+"NuLife Recovery"|34.052234|-118.243685
+"Football Action Sport Association"|34.100843|-117.767835
+"OJUAGBO"|6.524379|3.379206
+"College Inside View"|40.712784|-74.005941
+"Mellowcabs"|-33.924868|18.424055
+" BlueRose"|51.048615|-114.070846
+"Techzonic"|37.09024|-95.712891
+"NYLA By Scott "|40.712784|-74.005941
+"flipAir"|35.125801|-117.985904
+"Door Face Designs"|33.732052|-84.919108
+"Bookfoods"|52.370216|4.895168
+"Creative Solutions"|55.755826|37.6173
+"Majestic Gaming"|32.776664|-96.796988
+"BridgingPoints Marketing Services"|1.352083|103.819836
+"Oceen"|53.551085|9.993682
+"Milo Fitness"|40.58526|-105.084423
+"Hashtack"|40.712784|-74.005941
+":Dudexp"|-27.595378|-48.54805
+"CALLEBELLA"|41.008238|28.978359
+"CrowdBus"|-8.057838|-34.882897
+"Cedar Grove Brewery & Tap"|44.804132|-93.166886
+"Traffix"|25.76168|-80.19179
+"Awestruck Foods Private"|28.459497|77.026638
+"Finciero"|42.878213|-8.544844
+"Quipbook.com"|40.712784|-74.005941
+"Arte e Artefato"|-19.916681|-43.934493
+"Huntable"|51.507351|-0.127758
+"pixd"|9.931233|76.267304
+"Flatsoft Displays Company Limited "|1.352083|103.819836
+"Learnersuit in Noa Systems"|31.768319|35.21371
+"After i Pass On"|31.046051|34.851612
+"Talent Monthly Magazine"|39.739236|-104.990251
+"TheGameWall"|52.205337|0.121817
+"BetterTrainers Company"|34.052234|-118.243685
+"IMBECS "|47.60621|-122.332071
+"Vitalane"|44.977753|-93.265011
+"Possible Web,  Marketing  & Consulting"|35.227087|-80.843127
+"7thGem"|51.507351|-0.127758
+"FitMove SAS"|49.258329|4.031696
+"LUNA Mobile"|27.950575|-82.457178
+"WeSpotlight.com"|40.712784|-74.005941
+"Other Stories Design studio "|25.76168|-80.19179
+"Fat Dog Mobile"|30.267153|-97.743061
+"cThru.us"|41.878114|-87.629798
+"iChoozU - TikTakTalk"|31.046051|34.851612
+"Imexco General"|32.137793|34.840278
+"HeartBeat Technologies"|32.794046|34.989571
+"cMeSafe"|32.0853|34.781768
+"Soldiers of Valor Foundation"|33.448377|-112.074037
+"prolep.si"|50.110922|8.682127
+"ProumoBox"|-14.235004|-51.92528
+"Stikeestore.com"|45.815011|15.981919
+"Zuvaa"|40.712784|-74.005941
+"Founders Bloc"|40.712784|-74.005941
+"Rastival"|44.231172|-76.485954
+"GBTH Digital"|6.524379|3.379206
+"Multisensory Fitness"|34.420831|-119.69819
+"DoeMyanmar.com"|15.248758|97.853115
+"Leaders' Lunch Pakistan"|24.861462|67.009939
+"YatraChef"|9.931233|76.267304
+"Exchange Recovery"|27.580312|-80.386718
+"GWZ Consultants"|4.210484|101.975766
+"GWZ Enterprise"|4.210484|101.975766
+"Fanhold"|33.49417|-111.926052
+"RoosterBio"|39.414269|-77.410541
+"Utah Home Renovation"|41.223|-111.97383
+"LedZed International"|26.715342|-80.053375
+"Green Endeavor"|45.523062|-122.676482
+"Envision Global"|53.544389|-113.490927
+"Tenth Letter Made"|34.052234|-118.243685
+"PcHub.com"|1.352083|103.819836
+"Sweet Exteriors and Construction"|41.878114|-87.629798
+"SAPROPEET CANADA"|42.98695|-81.243177
+"The Body Challenge"|25.204849|55.270783
+"Realibrium"|25.790654|-80.130045
+"Rota Urbana"|-1.455755|-48.49018
+"ONGAB"|27.751828|-82.626734
+"kassomat"|52.520007|13.404954
+"ShoeBox"|39.800655|-76.983036
+"Hallrs"|39.529633|-119.813803
+"Munchmatez"|34.052234|-118.243685
+"kermesse Velopub"|36.153982|-95.992775
+"Hybrid Idle"|37.983917|23.72936
+"Esprit-Health"|31.968599|-99.901813
+"Sheridan TAverns"|40.712784|-74.005941
+"Order-Taker"|47.497912|19.040235
+"PENSHAKE"|44.426767|26.102538
+"Web development San Francisco"|40.712784|-74.005941
+"Axess Club Service"|36.169941|-115.13983
+"SoCoMo"|37.77493|-122.419416
+"DIGI DATE"|39.103118|-84.51202
+"Game Caterers"|38.907192|-77.036871
+"TripleTPlus"|34.052234|-118.243685
+"McMurrer Production"|34.052234|-118.243685
+"FreeConvo"|40.712784|-74.005941
+"Nidder"|56.949649|24.105186
+"CPRbase"|45.523062|-122.676482
+"Myish"|43.653226|-79.383184
+"Empowrr"|38.907192|-77.036871
+"X-ROL S.A.S."|6.253041|-75.564574
+"Docs9"|35.689488|139.691706
+"Salty Dog Tactical"|41.203322|-77.194525
+"Bucking Bee Vacation Resort"|30.267153|-97.743061
+"PajamaREO & BitREO.com"|36.169941|-115.13983
+"Geliyoo"|41.008238|28.978359
+"OnlineTehno Group SRL"|47.010453|28.86381
+"Powers Device Technologies"|26.934225|-80.094209
+"Bee Baby"|-30.034647|-51.217658
+"Truehome"|30.267153|-97.743061
+"SenseCube"|48.856614|2.352222
+"TechistWeb"|26.912434|75.787271
+"SharkWave"|55.008353|82.935733
+"vBSocial"|26.142036|-81.79481
+"UrbanFarmTrading"|-22.909938|-47.062633
+"Wooshade Caps"|34.052234|-118.243685
+"FoundMissing "|43.653226|-79.383184
+"Looqsh"|46.056947|14.505751
+"5 Beest"|38.978445|-76.492183
+"Storm and Shop"|25.76168|-80.19179
+"Downrange Idaho"|43.61871|-116.214607
+"3Dprintler"|45.42153|-75.697193
+"Voter Reviews"|13.113222|-59.598809
+"Parille Motor Oil"|41.878114|-87.629798
+"Whoozzup"|51.507351|-0.127758
+"Repair OST Files by Outlook OST Recovery"|3.321334|-76.235361
+"Web Development Phoenix"|33.448377|-112.074037
+"elbum"|25.032969|121.565418
+"K&C Consulting Services"|6.253041|-75.564574
+"Green Ninja Marijuana Tech"|34.052234|-118.243685
+"WWW.FREQENT.COM"|25.76168|-80.19179
+"Epic Business Consulting"|41.73698|-111.833836
+"Destination Solutions"|47.551493|-101.002012
+"wassalni"|33.886917|9.537499
+"CoinSpot"|55.755826|37.6173
+"FOODSOCCER"|48.856614|2.352222
+"MyTeleworker"|42.506317|1.521835
+"House Of Hades"|36.169941|-115.13983
+"StyleScan"|40.712784|-74.005941
+"Sokol Energy"|30.22409|-92.019843
+"Do or Dine"|40.712784|-74.005941
+"Moda Ukraine"|50.4501|30.5234
+"Ubuildabid"|43.944133|-90.812912
+"10k Financial"|29.760427|-95.369803
+"Fancybox"|42.878213|-8.544844
+"MyCookin"|51.507351|-0.127758
+"Tidnu"|55.604981|13.003822
+"Motors Co"|13.756331|100.501765
+"Pixeldome"|44.426767|26.102538
+"Grabien"|38.907192|-77.036871
+"Tala Farms"|47.60621|-122.332071
+"BaziFIT"|40.014986|-105.270546
+"FITCH Anti-Trust Research"|34.052234|-118.243685
+"Tri-Tech"|33.748995|-84.387982
+"iWish"|50.4501|30.5234
+"Swing Whistle"|47.60621|-122.332071
+"Riding Daily"|41.878114|-87.629798
+"ParkShare"|50.719164|-1.880769
+"BitCuzdan.com"|41.008238|28.978359
+"The Changer"|52.520007|13.404954
+"Booking Social"|41.878114|-87.629798
+"Rentpitara "|19.075984|72.877656
+"Targetty"|50.075538|14.4378
+"SenseGiz"|37.77493|-122.419416
+"chat4snap"|20.296059|85.82454
+"Quality of Life Media"|40.179186|44.499103
+"MikList"|48.856614|2.352222
+"KATESMOKES INTERNATIONAL"|37.77493|-122.419416
+"WasteSoft"|42.51954|-70.896716
+"Make My Sketch"|34.052234|-118.243685
+"Favobooks"|55.755826|37.6173
+"B&B Dispensor"|40.925372|-74.276544
+"BlueChat"|37.36883|-122.03635
+"POD WORKS GLOBAL"|39.32924|-82.101255
+"Inboxpage"|33.857328|-84.019911
+"Chi-Spree"|32.715738|-117.161084
+"E-Multiplex"|28.613939|77.209021
+"GHz Wireless"|30.267153|-97.743061
+"Vectored Photonics"|31.046051|34.851612
+"GLERON"|20.593684|78.96288
+"Fitness And Music"|34.052234|-118.243685
+"Shy Society"|44.977753|-93.265011
+"Gypsy Garage"|47.60621|-122.332071
+"Game Cloud"|40.712784|-74.005941
+"Clean Leaf Smokes"|47.60621|-122.332071
+"Melero Education"|35.085334|-106.605553
+"TC Metro"|37.77493|-122.419416
+"Book Demon"|33.941213|-84.213531
+"Beyond the Surface International"|32.715738|-117.161084
+"SquareHire"|39.739236|-104.990251
+"Gemican"|44.953703|-93.089958
+"02zone"|33.748995|-84.387982
+"CVFlash"|9.081999|8.675277
+"Quivers International"|35.365945|-120.849992
+"VidyaSunil & Associates"|12.971599|77.594563
+"Stone Age Media"|6.524379|3.379206
+"Float:Milwaukee"|43.038903|-87.906474
+"ScholarsDen"|28.459497|77.026638
+"Ecicekci.com"|41.008238|28.978359
+"uGift"|48.379433|31.16558
+"SunDown RunDown Group"|39.961176|-82.998794
+"Fortune Innovations San Diego"|40.712784|-74.005941
+"WatchYourBike"|4.710989|-74.072092
+"2Vancouver.com"|45.638728|-122.661486
+"HommyFood"|31.804381|34.655314
+"Model Citizen"|40.712784|-74.005941
+"Curbcity"|44.231172|-76.485954
+"QSIL's The Fundraiser"|-40.900557|174.885971
+"Ebb and Flow"|35.759573|-79.0193
+"Geopay.me"|27.965853|-82.800103
+"Addictive Performance"|29.760427|-95.369803
+"Wiziva"|42.697708|23.321868
+"Edvisr"|41.63977|-81.406501
+"Vent Scents"|47.475279|-1.764935
+"Buffalo"|54.738762|55.972055
+"Seattle Sound Live"|47.60621|-122.332071
+"3D Matters"|1.352083|103.819836
+"www.girik.in"|17.385044|78.486671
+"Uberpose"|31.761878|-106.485022
+"MediCloud DSS"|32.0853|34.781768
+"iSoccer"|37.77493|-122.419416
+"Auto Secure"|26.461463|-80.07282
+"qpquo"|-46.363881|168.018194
+"Open Door Global"|48.191989|-114.316813
+"Ds Nuts N Butts"|33.748995|-84.387982
+"Shenzhen Rongyu Tech Co."|22.543099|114.057868
+"CashCapp"|-33.932104|18.860152
+"RyzeTV"|51.507351|-0.127758
+"Morevoucher"|51.507351|-0.127758
+"iussu d.o.o"|45.1|15.2
+"Quainted"|-26.204103|28.047305
+"TPTT Travel Academy"|-26.260724|28.463038
+"Supergadgets"|51.507351|-0.127758
+"Starac"|43.508132|16.440193
+"tagMap"|37.507159|-122.260522
+"Innovative Investments"|40.58526|-105.084423
+"LEO"|32.776664|-96.796988
+"Virtual and Business"|25.76168|-80.19179
+"American Green Energy Systems"|37.947979|-122.060796
+"3i Tech Works"|26.368306|-80.128932
+"Adagio Group"|26.122439|-80.137317
+"Lajwanti Designers"|31.554606|74.357158
+"MedPAC Technologies"|38.285625|-85.824131
+"Legal Interactive Services"|26.122439|-80.137317
+"Purveyour"|35.77959|-78.638179
+"Tillister"|59.329323|18.068581
+"ZeroGox.com"|45.501689|-73.567256
+"NyceBy:"|40.712784|-74.005941
+"Cherry Bird"|51.507351|-0.127758
+"AidComputer"|47.010453|28.86381
+"iBidGames Interactive "|36.169941|-115.13983
+"Lingua 101"|61.52401|105.318756
+"Work Space List"|37.77493|-122.419416
+"PelMel Guide"|37.77493|-122.419416
+"NipponFWD"|35.689488|139.691706
+"Vysoko Systems"|50.82253|-0.137163
+"Wonderland.Travel"|50.4501|30.5234
+"WoodMarket.eu"|51.507351|-0.127758
+"ArchitectureLive!"|28.613939|77.209021
+"luxe-voyager.com"|41.878114|-87.629798
+"1000mW pointeur laser vert "|48.856614|2.352222
+"PinBud"|51.048615|-114.070846
+"Perel Clothing"|34.052234|-118.243685
+"Oxriver Capital"|30.22409|-92.019843
+"AnswerFair.com"|40.712784|-74.005941
+"Eusic"|51.752021|-1.257726
+"Ofertas de E-mail"|-14.235004|-51.92528
+"neoeva"|53.551085|9.993682
+"Advice Wallet"|37.77493|-122.419416
+"Myish Inc. "|43.653226|-79.383184
+"Gourmet Hotdog Cafe"|3.139003|101.686855
+"ALLPlayer Group sp. z o.o. sp.k."|50.06465|19.94498
+"BorderFly"|37.386052|-122.083851
+"PeSoMe"|43.653226|-79.383184
+"Intelletech"|41.763711|-72.685093
+"Remote Trial"|28.538336|-81.379236
+"Under The Apron"|40.825901|-74.209005
+"REOCOM MEDIA"|29.619679|-95.634946
+"GearFive"|40.825763|-96.685198
+"Osones"|48.856614|2.352222
+"Google Glass Colored Shades"|40.712784|-74.005941
+"TrendMonitor"|28.538336|-81.379236
+"StartupLatvia"|56.879635|24.603189
+"Freelancejobsng.com"|6.524379|3.379206
+"Forge"|51.375801|-2.359904
+"Newster"|25.285447|51.53104
+"ContactRocket"|33.748995|-84.387982
+"Wingate Enterprises"|32.776475|-79.931051
+"Ganozi SD"|12.862807|30.217636
+"Cristofe Luis"|40.712784|-74.005941
+"Tap and Book"|1.352083|103.819836
+"Web Development San Jose"|37.338208|-121.886329
+"Prince Joseph Foundation International"|0.347596|32.58252
+"Povario.ru"|55.755826|37.6173
+"CLEARGOL Towers Brazil"|25.790654|-80.130045
+"kadlawo.com"|4.210484|101.975766
+"Venufy"|55.378051|-3.435973
+"Content Games"|43.653226|-79.383184
+"Moddo"|48.379433|31.16558
+"Zink Shirts, L.L.C."|43.455346|-76.510497
+"MESI "|46.056947|14.505751
+"Postnd"|38.423734|27.142826
+"TAJINTECH CORP. DBA-AIRCLEAR  ENERGY"|39.045755|-76.641271
+"Ophis"|34.052234|-118.243685
+"NEXXUS PARTNERS "|51.507351|-0.127758
+"Faith Investments"|32.776664|-96.796988
+"MBAninjas"|52.370216|4.895168
+"Backroad Pedicab"|42.360083|-71.05888
+"Wings Of War"|40.712784|-74.005941
+"APEMONA"|19.041297|-98.2062
+"Xtra - Sell and Buy from your smartphone"|10.654451|-71.714795
+"Master Card Artist"|44.426767|26.102538
+"Aturma Systems"|37.338208|-121.886329
+"World Biotechnology"|40.712784|-74.005941
+"AMARAMCO"|40.712784|-74.005941
+"Coxswain Mobile app - Via Mobil"|-18.914608|-48.27538
+"Grocer E-Store"|29.760427|-95.369803
+"Locus Techsoft"|18.52043|73.856744
+"Veterans Aide Foundation"|28.078072|-82.763713
+"Liox"|40.712784|-74.005941
+"Time2cu"|32.776664|-96.796988
+"Multiplier Effect"|27.336435|-82.530653
+"Dirty Millions The Clean Way"|39.849557|-75.355746
+"IT Innovators"|43.653226|-79.383184
+"HeraldsonPost"|52.205337|0.121817
+"Cholula Nightlife"|19.041297|-98.2062
+"ALLchemia"|52.229676|21.012229
+"Yibbly!"|40.712784|-74.005941
+"abjjad"|31.956578|35.945695
+"SMARF Data Crowding"|41.033986|-73.76291
+"ILLUM CLOTHING"|33.748995|-84.387982
+"AppNation Tech"|26.368306|-80.128932
+"Essential Man "|34.052234|-118.243685
+"Syldi Studio"|47.394144|0.68484
+"MRPL"|28.613939|77.209021
+"Leximo"|38.907192|-77.036871
+"evoze"|25.76168|-80.19179
+"Safe Trade  International"|33.748995|-84.387982
+"Ecstatic Travel Group"|36.835426|-76.298274
+"Reserva"|40.712784|-74.005941
+"Piicmi"|40.712784|-74.005941
+"#bio (Energy Technologies Ltd)"|48.379433|31.16558
+"Sé Parte - Crowdfunding Paraguay"|-25.26374|-57.575926
+"AlphaPackers"|12.971599|77.594563
+"GankerS Entertainment"|-6.917464|107.619123
+"Enterprise Energy Services"|40.423314|-104.709132
+"Perfblogger"|40.712784|-74.005941
+"Crowned King"|33.748995|-84.387982
+"Xpertseek.com"|28.459497|77.026638
+"Saraswatisadan, an Indian Arts School"|40.712784|-74.005941
+"Butterfly"|32.0853|34.781768
+"MElinkki"|3.139003|101.686855
+"PeerReserve"|42.033361|-88.083406
+"Goalie Mechanics"|42.96336|-85.668086
+"Demand Resource Solutions"|35.227087|-80.843127
+"A Shopping Butler"|28.538336|-81.379236
+"Sponger"|32.0853|34.781768
+"Argumatr"|39.103118|-84.51202
+"Revohloo  -  Revohloo Studios"|36.169941|-115.13983
+"The Master Switch"|47.60621|-122.332071
+"Binary Code"|45.815011|15.981919
+"sigulardot"|39.904211|116.407395
+"Volante Group Liquiceuticals"|34.052234|-118.243685
+"Jeffersons"|40.058324|-74.405661
+"Social Endless"|40.712784|-74.005941
+"AdLog.tv"|48.379433|31.16558
+"ReGroup"|38.907192|-77.036871
+"CINIOS"|36.778261|-119.417932
+"Momentium"|55.755826|37.6173
+"WHITEPLAN"|37.566535|126.977969
+"Red Rock"|28.613939|77.209021
+"PomZoo.com"|28.538336|-81.379236
+"Legal Logic"|32.776664|-96.796988
+"Professional Logical Solutions"|29.760427|-95.369803
+"seo exparte "|23.810332|90.412518
+"Komar Games"|61.52401|105.318756
+"Parrainage Boursorama"|48.856614|2.352222
+"Nour Media Group"|40.943445|40.263324
+"Aero Academy"|41.878114|-87.629798
+"Easy2Study"|32.0853|34.781768
+"Unseenseven"|37.77493|-122.419416
+"Gamer's Con Video Game Conventions"|41.081445|-81.519005
+"Ginch Club"|45.638728|-122.661486
+"AZAR"|34.052234|-118.243685
+"Spring Flower Publication"|6.524379|3.379206
+"World's Tackiest"|36.169941|-115.13983
+"The Brain Storm studio"|48.379433|31.16558
+"Joya"|32.0853|34.781768
+"Fortune Innovations Melbourne "|28.083627|-80.608109
+"BlueOctopusQR"|33.748995|-84.387982
+"YouAskAnyone"|34.019454|-118.491191
+"iOfixit "|26.076478|-80.252116
+"PSS Herbs India"|20.593684|78.96288
+"ADVANCED UNIVERSAL TECH"|45.638728|-122.661486
+"Global Blast Solution"|-0.789275|113.921327
+"Surfme"|48.856614|2.352222
+"Automatic Trading"|35.689488|139.691706
+"Harpia Projetos"|-14.235004|-51.92528
+"ThirstyCrow E - Business Pvt."|19.075984|72.877656
+"B. C. Watson, Your Supermarket Hero"|40.712784|-74.005941
+"ELLES    "|34.092809|-118.328661
+"CurateKing"|30.267153|-97.743061
+"Weetab Group"|45.501689|-73.567256
+"DailyJobbox"|27.950575|-82.457178
+"Unknown"|45.523062|-122.676482
+"Simplicity Health Systems"|32.776664|-96.796988
+"YOOP - Simple Payments Solutions"|40.416775|-3.70379
+"Grateful Gardens Social Club"|40.58526|-105.084423
+"Mysk Solutions"|12.971599|77.594563
+"Blackbird.co"|48.856614|2.352222
+"DaftRun"|52.059935|-9.504427
+"Outsourcers Local"|44.012122|-92.480199
+"Sirias"|-35.675147|-71.542969
+"Yellowbox"|46.482526|30.72331
+"HourHotels.com"|-23.55052|-46.633309
+"Voodoo"|48.856614|2.352222
+"Alfa Loem"|19.70595|-101.194982
+"Startup Miner"|37.229573|-80.413939
+"Gospell"|13.08268|80.270718
+"Angels & Magick"|40.440625|-79.995886
+"Kipsis"|51.507351|-0.127758
+"Beneath Water"|51.507351|-0.127758
+"Gatfol"|35.937496|14.375416
+"Globatum"|38.907192|-77.036871
+"Russian Red 7 LLC "|34.052234|-118.243685
+"Ozarks Extreme Outdoors"|37.208957|-93.292299
+"Danleasing ApS "|55.676097|12.568337
+"IFGUIDE"|25.790654|-80.130045
+"iRevü"|38.907192|-77.036871
+"Keyz Repair "|40.416702|-86.875287
+"ULN"|40.712784|-74.005941
+"Black Fox Meadery"|28.078072|-82.763713
+"softsoft"|34.052234|-118.243685
+"vLance.vn"|21.027764|105.83416
+"Inapay"|-6.308865|106.682188
+"TIEMAC"|33.748995|-84.387982
+"Esteemed Treasures"|37.540725|-77.436048
+"The Mathist"|43.320902|21.895759
+"Las Casas"|6.253041|-75.564574
+"ACAR"|47.376887|8.541694
+"Creativiks"|39.952584|-75.165222
+"Vertigo Games"|57.649454|-3.318485
+"MindGear"|37.386052|-122.083851
+"FamiJoy"|19.075984|72.877656
+"Mighty Cast"|45.501689|-73.567256
+"KazVtorPlast Co."|52.287303|76.967402
+"Web development Company Detroit"|40.712784|-74.005941
+"Geek Styling"|37.77493|-122.419416
+"Qiqit!"|34.052234|-118.243685
+"Intoxicated"|36.169941|-115.13983
+"Charity Auto Club"|33.448377|-112.074037
+"Docalytics"|44.953703|-93.089958
+"Favorite Things"|40.735657|-74.172367
+"Dohapoker"|50.4501|30.5234
+"Somnicycle"|33.520661|-86.80249
+"Twiztour"|48.856614|2.352222
+"Saince"|34.075376|-84.29409
+"Allfreed"|6.253041|-75.564574
+"Cozmik Body"|33.748995|-84.387982
+"Clue Video"|26.122439|-80.137317
+"Hullo Creative"|1.352083|103.819836
+"LoudCV"|6.524379|3.379206
+"RestateCRM"|55.000557|82.682426
+"Costalize"|37.338208|-121.886329
+"livs.in"|42.878213|-8.544844
+"Science under Sail"|27.336435|-82.530653
+"Pressbrite"|51.735587|0.46855
+"nFocus Labs"|35.77959|-78.638179
+"Friendconnect"|28.083627|-80.608109
+"The Pinellas Kickboxing Academy"|27.950575|-82.457178
+"Cloudsify"|37.77493|-122.419416
+"Treilla"|37.77493|-122.419416
+"Brunetti Designs"|39.5186|-104.761363
+"Tribe & Co., custom jeanmakers"|41.878114|-87.629798
+"Givesy"|39.962598|-76.727745
+"WAP! Comic Convention"|26.122439|-80.137317
+"Metroview Capital"|35.227087|-80.843127
+"BTC-SM"|32.794046|34.989571
+"Trickonn"|17.385044|78.486671
+"Tcheck'it"|48.856614|2.352222
+"icePOS"|51.507351|-0.127758
+"RushLab"|38.804836|-77.046921
+"Hashtaag"|28.613939|77.209021
+"i4drive"|32.0853|34.781768
+"TesterTout.com"|50.62925|3.057256
+"iHydro"|44.426767|26.102538
+"StemCell720"|56.130366|-106.346771
+"Smart Kids Video "|28.632996|-106.0691
+"www.achatlaser.com"|33.660939|-95.555513
+"Just a Box Studio"|28.538336|-81.379236
+"Rapfeatures.com"|30.421309|-87.216915
+"L2 Environmental Services"|29.760427|-95.369803
+"Wayne Management Company"|40.712784|-74.005941
+"Eight Technologies"|30.166074|-81.706484
+"Spectra Instruments"|42.527873|-70.928661
+"Youneeq"|48.428421|-123.365644
+"Ourcast"|40.712784|-74.005941
+"Mukha Yoga"|35.686975|-105.937799
+"Street Fight"|40.014986|-105.270546
+"night-job AG"|47.376887|8.541694
+"Education line"|46.482526|30.72331
+"FINTRUE TECHNOLOGIES PVT."|19.075984|72.877656
+"Viepage"|40.712784|-74.005941
+"Antolek Interactive"|54.352025|18.646638
+"Paytagz"|37.386052|-122.083851
+"New Understanding Music"|38.907192|-77.036871
+"Gymsurfing"|37.77493|-122.419416
+"Lottyre Rich"|35.759573|-79.0193
+"SharpCart"|30.267153|-97.743061
+"Nature Walk Kauai"|19.896766|-155.582782
+"Miami RCG"|25.76168|-80.19179
+"Bunk Haus"|39.103118|-84.51202
+"EventSneaker"|54.574227|-1.234956
+"Reqwest"|48.856614|2.352222
+"Incubator Rater"|39.415352|-81.454844
+"Stallion Auto Spa"|36.072635|-79.791975
+"Sameera techno solutions"|17.385044|78.486671
+"Simav"|52.040622|-0.759417
+"RegalWorks Media"|34.019454|-118.491191
+"iMeal Pty"|-33.867487|151.20699
+"Contestgram"|45.070312|7.686856
+"SociGroups"|37.540725|-77.436048
+"Aircard"|43.073052|-89.40123
+"InVastor.Com"|42.083434|-71.018379
+"Broodjes & Bier"|38.907192|-77.036871
+"Foodlogic"|48.145892|17.107137
+"Pikit"|38.252665|-85.758456
+"Bagolf"|25.76168|-80.19179
+"Ezylife Kenya"|-1.292066|36.821946
+"GymSideKick"|47.497912|19.040235
+"AvaCon"|42.360083|-71.05888
+"Crooked Creek"|44.068202|-114.742041
+"Quibble Genomics Institute"|34.052234|-118.243685
+"Fly Nights club/bar"|56.949649|24.105186
+"Thumbs"|34.052234|-118.243685
+"Impact Bioenergy"|47.60621|-122.332071
+"Alive - Premium Electronic Cigarettes"|26.122439|-80.137317
+"Condo Motion"|41.878114|-87.629798
+"Troy Bohlke - 10 Day Publicity "|33.448377|-112.074037
+"VirtualGC"|-6.202394|106.65271
+"Socialhappen"|13.756331|100.501765
+"Green On"|48.856614|2.352222
+"AlertsCentral"|-26.204103|28.047305
+"favics"|53.551085|9.993682
+"Nqyer"|52.520007|13.404954
+"Cloud306"|50.075538|14.4378
+"Artsper"|48.856614|2.352222
+"VOBI"|41.715138|44.827096
+"ConvergIQ"|39.739236|-104.990251
+"CoCom IS"|39.045755|-76.641271
+"Fuzmo"|51.62144|-3.943646
+"H20 Pop up Portable Hookah Lounge"|34.052234|-118.243685
+"YuMovil"|20.422984|-86.922343
+"BUYONNET Sp.z o.o."|52.229676|21.012229
+"Tasten"|45.501689|-73.567256
+"Instantly Social"|39.290385|-76.612189
+"The Coffret"|45.439695|4.387178
+"Bom Apetite"|-30.034647|-51.217658
+"NextTopEvent"|21.027764|105.83416
+"Krishi Star"|19.075984|72.877656
+"Sade Wellness"|38.907192|-77.036871
+"WayGlobal"|41.997346|21.427996
+"SkilledWizard"|37.09024|-95.712891
+"BitByCoin"|33.748995|-84.387982
+"RCE"|35.085334|-106.605553
+"LoyalJunkie Mobile Loyalty Plateform"|31.554606|74.357158
+"Weecord.TV"|38.833882|-104.821363
+"Orac"|53.800755|-1.549077
+"Empty Beverage"|40.712784|-74.005941
+"Managed Growth"|28.083627|-80.608109
+"BeeCast"|39.768403|-86.158068
+"iTestiWin.com"|28.613939|77.209021
+"LaughHalf"|30.267153|-97.743061
+"OFORO"|42.360083|-71.05888
+"Skitsol"|28.613939|77.209021
+"League Warrior"|38.907192|-77.036871
+"SonicLink"|55.755826|37.6173
+"Republer"|50.4501|30.5234
+"BRYXco"|39.739236|-104.990251
+"SelfieSocial"|40.058324|-74.405661
+"Poke Hawaiian Restaurant"|40.755656|-73.587627
+"P.Solutions"|28.613939|77.209021
+"EFFICIENCIA"|43.604652|1.444209
+"Adsnile Technology"|-18.920133|29.823655
+"Capserve Ventures"|32.715738|-117.161084
+"Glow Traffic"|40.712784|-74.005941
+"Koolives"|22.543099|114.057868
+"Lil 3D Printing"|43.518299|-79.877404
+"Four Corners Cafe"|44.012122|-92.480199
+"Gallant Visions Film Boutique"|33.448377|-112.074037
+" Med  Island  Floating City"|43.275063|11.98512
+"8M Networks"|20.593684|78.96288
+"Smart Ass Toilet Paper"|39.415352|-81.454844
+"iTown"|57.005067|40.976645
+"Mediagit"|40.409262|49.867092
+"Jaimie Jacobs"|48.135125|11.581981
+"SA Envitech a.s."|50.075538|14.4378
+"Channll"|51.507351|-0.127758
+"Qeeub"|6.524379|3.379206
+"ARTEMIS Space"|53.480759|-2.242631
+"Saplyng"|45.523062|-122.676482
+"Skyeline Management and Promotions"|33.748995|-84.387982
+"HomeWorks"|38.677959|-121.176058
+"Mobilemock.IO"|39.904211|116.407395
+"Matrix-Box"|40.712784|-74.005941
+"XPAT IP Services Pvt."|28.408912|77.317789
+"Centurion Oil and Gas, LLC (Dubai)"|25.204849|55.270783
+"iPot®  Inc. "|34.052234|-118.243685
+"BizzSim Business Simulation"|41.008238|28.978359
+"Smokey Hollow MX"|43.78444|-88.787868
+"Lookals"|52.520007|13.404954
+"Addiction Guide"|45.638728|-122.661486
+"KantWait"|40.11642|-88.243383
+"MoJo Spice Mixes & Rubs"|44.314844|-85.602364
+"Preditiva"|-14.235004|-51.92528
+"box-planner"|51.507351|-0.127758
+"What-The-Buck--Gifts & More"|45.523062|-122.676482
+"Diwaly.com"|18.52043|73.856744
+"Lokait"|12.971599|77.594563
+"Signalify"|35.689198|51.388974
+"Louisville Apartment Complex"|38.252665|-85.758456
+"iWoodWood"|44.060628|-70.393667
+"Content Syndicate"|37.354108|-121.955236
+"EZPack Water"|32.045589|34.876578
+"TRAFFIC-SOCIAL"|52.229676|21.012229
+"ZOOM TV"|56.50104|84.992451
+"Formbildr"|40.712784|-74.005941
+"SocialDrv"|37.54827|-121.988572
+"Magic Square Productions"|34.052234|-118.243685
+"Little Spicy Funk"|29.951066|-90.071532
+"myteendating"|36.746842|-119.772587
+"ReShop.ph"|14.599512|120.98422
+"iZ About Town"|35.46756|-97.516428
+"Microblr"|51.507351|-0.127758
+"Femme du Coupe"|41.878114|-87.629798
+"Never Give Up Foundation "|36.169941|-115.13983
+"Defco Records"|52.939916|-73.549136
+"FrameBuzz"|30.267153|-97.743061
+"KNOWMINAL TECHNOLOGIES"|12.971599|77.594563
+"S.T.A.R.S"|39.083997|-77.152758
+"DeskGod"|37.09024|-95.712891
+"UrbnDesignz"|40.712784|-74.005941
+"trustlr"|40.712784|-74.005941
+"Tall Ship Studio"|40.760779|-111.891047
+"I-K - privat invest"|40.712784|-74.005941
+"Panasoft"|38.402136|-122.823881
+"Dresses Plaza"|40.712784|-74.005941
+"locus4u"|46.165912|14.571969
+"Socialmeet.me"|-12.046374|-77.042793
+"SnailMailPics"|41.878114|-87.629798
+"Amplify.ph"|12.879721|121.774017
+"Have To Try It"|32.715738|-117.161084
+"S.U.I.T.S Initiative"|42.224867|-121.78167
+"pet n'GO"|25.686614|-100.316113
+"Ediopia"|34.052234|-118.243685
+"Senior Purpose"|39.739236|-104.990251
+"Cudll a Pets Plus Charities technology"|33.426973|-117.611992
+"1net.me"|32.0853|34.781768
+"Social Net Watcher"|39.768403|-86.158068
+"MUSICALL"|4.710989|-74.072092
+"FlyPeeps"|33.683947|-117.794694
+"Kidini Karate"|39.739072|-75.539788
+"ConnectToHome"|40.236449|-83.367143
+"TapCave"|-7.119496|-34.845012
+"WitGet"|55.755826|37.6173
+"Espro"|32.666933|-16.924055
+"Platinum Collection Company"|29.760427|-95.369803
+"UrbanvibezTV"|33.520661|-86.80249
+"Bursadeanvelope"|46.77121|23.623635
+"SeoerTools"|21.027764|105.83416
+"Happy Studies"|48.856614|2.352222
+"Dibs!"|25.76168|-80.19179
+"Halli Oota"|12.971599|77.594563
+"Good Spot"|48.856614|2.352222
+"WOM Online Marketing"|-26.204103|28.047305
+"Sollet Soft Solutions"|17.385044|78.486671
+"Hong Kong Tesla Technology"|22.396428|114.109497
+"Teinvité.com"|-34.603684|-58.381559
+"Couch One I.T. Solutions"|38.040584|-84.503716
+"Kabazzled"|45.056004|-92.808844
+"Squid Facil"|-23.50153|-47.45256
+"ActiveSwag"|40.712784|-74.005941
+"Hi-Fly Lifestyle"|33.748995|-84.387982
+"Tutto"|26.715342|-80.053375
+"Red Lipstyck"|41.878114|-87.629798
+"Donation by Location"|34.052234|-118.243685
+"Gallerwee"|32.318231|-86.902298
+"Joshua & Caleb Min"|33.956215|-83.987962
+"DooYooTalents"|46.151241|14.995463
+"Reactim"|32.068424|34.824785
+"Give to Win"|33.748995|-84.387982
+"API Network"|30.267153|-97.743061
+"Talkie"|42.697708|23.321868
+"Jembler"|52.370216|4.895168
+"NewOldMail"|50.4501|30.5234
+"CrowdCast"|35.689488|139.691706
+"jubi"|44.426767|26.102538
+"Soleil Insulation Co."|37.77493|-122.419416
+".Net Fiddle"|40.712784|-74.005941
+"Billy Co."|37.77493|-122.419416
+"Instaquadros"|-22.906847|-43.172896
+"Monograme"|-22.906847|-43.172896
+"KP Production "|30.984298|-91.962333
+"Ideal Impact"|38.907192|-77.036871
+"INTP Square Malaysia"|3.139003|101.686855
+"Runway"|41.707539|-86.89503
+"Meeting To You "|39.758948|-84.191607
+"ethosU"|29.651634|-82.324826
+"Jamstir"|33.748995|-84.387982
+"Vitail "|-33.867487|151.20699
+"memeBig.com"|-27.471011|153.023449
+"Boomy Studio"|44.838124|11.619787
+"Teamparts"|61.52401|105.318756
+"NanoNutrition Laboratories"|41.878114|-87.629798
+"DreamStorm"|37.77493|-122.419416
+"Bond&D.Enterprise"|43.653226|-79.383184
+"Medverge"|38.627003|-90.199404
+"Destek Masasi"|41.008238|28.978359
+"Webisodes Network"|34.052234|-118.243685
+"Bright Neighbor"|45.523062|-122.676482
+"QR Artist"|45.638728|-122.661486
+"Smash Restobar"|14.599512|120.98422
+"Veraxon Entertainment"|40.712784|-74.005941
+"DigiTV Software"|-34.901113|-56.164531
+"Pan Tostado Siciliano"|27.950575|-82.457178
+"FlightHike"|39.103118|-84.51202
+"Locappy"|51.507351|-0.127758
+"Destiny Coaching"|-26.204103|28.047305
+"PROSPR"|37.77493|-122.419416
+"Sociatag"|33.888629|35.495479
+"Cyberknife4oz"|-33.867487|151.20699
+"Flinqo"|26.238947|73.024309
+"Tuneslim"|39.952584|-75.165222
+"Sky Homes"|42.360083|-71.05888
+"Independent Artist Competition Assoc."|34.052234|-118.243685
+"Triage Revival Project"|40.60967|-111.939103
+"Rumming"|31.956578|35.945695
+"TIVIKO"|54.525961|15.255119
+"LookMedBook"|55.755826|37.6173
+"Test company"|48.856614|2.352222
+"Little Sale Birdy"|-33.867487|151.20699
+"YouNationwide.com"|29.760427|-95.369803
+"Suzy Foods"|30.267153|-97.743061
+"Valuueba.com"|28.613939|77.209021
+"Stylematic.co"|37.77493|-122.419416
+"Danzan d.o.o."|46.151241|14.995463
+"Dream Machine Association"|32.776664|-96.796988
+"spider-mantis"|10.315699|123.885437
+"Bolche' by Nall"|30.522972|-87.903326
+"chartoncloud"|12.879721|121.774017
+"YI-QI"|34.341568|108.940175
+"Tiendco"|-34.603684|-58.381559
+"Centre for Grants, Contact and Business"|34.052234|-118.243685
+"Collin's Custom IP"|37.804364|-122.271114
+"Innoventius"|40.760779|-111.891047
+"eCommerce Logistics"|34.052234|-118.243685
+"Lovecars "|51.454513|-2.58791
+"SayPublic"|51.507351|-0.127758
+"EMC Auto Repair "|37.72493|-122.156077
+"Best Friends Game"|56.879635|24.603189
+"Test"|22.396428|114.109497
+"Hippe"|17.385044|78.486671
+"QPIN"|29.760427|-95.369803
+"Dresser"|47.65878|-117.426047
+"Wedding Okay !"|12.971599|77.594563
+"Wealth Taxi"|34.052234|-118.243685
+"Bawn Media Networks"|34.052234|-118.243685
+"FIGHT CAMP"|34.052234|-118.243685
+"Go-X"|40.058324|-74.405661
+"Takeaways R Us"|55.864237|-4.251806
+"Augo"|28.538336|-81.379236
+"Use simpler"|55.755826|37.6173
+"MUNUS"|52.156111|5.387827
+"Answers for Life"|45.783286|-108.50069
+"ORPA ELECTRONICS"|37.77493|-122.419416
+"Ptab"|35.282752|-120.659616
+"TBD"|32.715738|-117.161084
+"WANT"|34.052234|-118.243685
+"SparkOffer"|31.968599|-99.901813
+"GG Laboratories"|40.925372|-74.276544
+"RoboTools"|33.103174|-96.67055
+"SQBA"|52.723598|41.442306
+"Son Girisim"|41.008238|28.978359
+"myTMAR"|31.968599|-99.901813
+"Airlike"|55.755826|37.6173
+"Botonakis Web Development"|37.983917|23.72936
+"Sanders Services"|37.09024|-95.712891
+"Iratepolitics.com"|40.712784|-74.005941
+"Eelpilipinas"|14.599512|120.98422
+"Ecoveco"|20.659699|-103.349609
+"meshwith"|47.60621|-122.332071
+"Paisa Swipe"|37.77493|-122.419416
+"Kydabra - Crowdfunding for Real Estate"|44.977753|-93.265011
+"Effective decision"|50.4501|30.5234
+"SportzCal"|32.715738|-117.161084
+"Estate of Basilio Lopez Martin"|38.907192|-77.036871
+"bubble solutions"|41.503471|-5.746788
+"Safe House"|43.048122|-76.147424
+"Christian Ketterer"|48.135125|11.581981
+"Contest-o-Matik"|40.416775|-3.70379
+"Green Surf"|32.0853|34.781768
+"NuAgeBI"|37.322998|-122.032182
+"Referrizer"|26.318412|-80.099766
+"TC Unterhaltungselektronik AG"|50.356943|7.588996
+"Beagle Tools"|41.603221|-73.087749
+"another one"|42.728412|-73.691785
+"Stupon"|32.0853|34.781768
+"iFlipd"|45.523062|-122.676482
+"Lawyers Bureau"|40.712784|-74.005941
+"Tea People"|37.77493|-122.419416
+"YoungRF Technologies"|5.603717|-0.186964
+"Locals Networking"|33.748995|-84.387982
+"Feeditch"|33.888629|35.495479
+"Hedge fund  Automatic systems hedging "|38.402136|-122.823881
+"Meera Entertainment"|19.075984|72.877656
+"Smeeters"|48.856614|2.352222
+"N°97"|43.653226|-79.383184
+"The Tropica Group"|1.352083|103.819836
+"GlassRoom Marketing"|34.07362|-118.400356
+"Watch it for me"|40.712784|-74.005941
+"Torlem"|-14.235004|-51.92528
+"P-HGH"|30.332184|-81.655651
+"Renaissance Man"|6.524379|3.379206
+"Foresight optometrics, PC"|42.360083|-71.05888
+"Your Time Management Service"|29.301348|-94.797696
+"Flow Studios"|52.090737|5.12142
+"MindSpark"|40.712784|-74.005941
+"DDStocks"|45.501689|-73.567256
+"CatchMyRide"|42.360083|-71.05888
+"Go2See"|27.751828|-82.626734
+"Chef Database"|51.507351|-0.127758
+"Synrc Research Center"|50.4501|30.5234
+"StudiVUZ"|42.341685|69.590101
+"Keitra OÜ"|59.436961|24.753575
+"bilinah.com"|12.879721|121.774017
+"Xtreme Beach Volleyball"|-6.792354|39.208328
+"Imagination Planet"|31.046051|34.851612
+"DTin"|55.755826|37.6173
+"STEM Edutainment Systems"|1.352083|103.819836
+"CATAPOOOLT"|19.075984|72.877656
+"SNOW-Kalika Trust (LLC)"|34.233137|-102.410749
+"QMOTOR"|-23.55052|-46.633309
+"Mango"|40.440625|-79.995886
+"WorldLight Websites"|45.523062|-122.676482
+"Eventauz"|51.507351|-0.127758
+"FileLife"|40.58654|-122.391675
+"Gibby's Guitar Boutique"|29.760427|-95.369803
+"Firepaperapp"|-33.924868|18.424055
+"Saker Aircraft"|34.052234|-118.243685
+"Select Racing"|-25.274398|133.775136
+"m3dot0.com"|14.599512|120.98422
+"HelloPerk"|41.763711|-72.685093
+"Skywall"|37.77493|-122.419416
+"TRUTH BIOMEDICAL"|22.572646|88.363895
+"Give for Sports Foundation"|19.075984|72.877656
+"Dear Martini"|37.562992|-122.325525
+"Love Your Beauty Hair Boutique"|36.02525|-115.241942
+"BiographID"|40.712784|-74.005941
+"Fashion Island"|36.926927|14.725513
+"ParolZ"|6.524379|3.379206
+"rusotels.ru"|27.751828|-82.626734
+"Byowner Imp Exp Co"|-14.235004|-51.92528
+"SpellAfrica Initiative"|6.334986|5.603746
+"Lenana Financial"|-1.292066|36.821946
+"Roboticssa"|40.463667|-3.74922
+"at60inches"|40.712784|-74.005941
+"Cove"|-33.924868|18.424055
+"All About Technology"|42.331427|-83.045754
+"bidorbankit.com"|40.760779|-111.891047
+"Cinch"|40.760779|-111.891047
+"faynodev"|50.4501|30.5234
+"Santh CleanEnergy Microgrid (SCEM)"|28.538336|-81.379236
+"New Skool Wrestling (NSW)"|44.475883|-73.212072
+"LetsGram"|47.60621|-122.332071
+"Meet&Eat"|55.755826|37.6173
+"nobrandsolution srl"|45.465422|9.185924
+"Bryan Dynamics"|27.664827|-81.515754
+"FIM Systems "|37.702152|-121.935792
+"Shreeng.com"|22.572646|88.363895
+"Blue Duck"|32.715738|-117.161084
+"Wiggins Wheels"|36.186744|-94.128814
+"webmely"|21.027764|105.83416
+"Fitness 4 U Online"|39.768403|-86.158068
+"Epithia"|44.786568|20.448922
+"Performa Sports"|54.597285|-5.93012
+"zuEuz Tecnologia & Negócios"|-23.50153|-47.45256
+"POLCOALDEX"|54.352025|18.646638
+"CamJak Products"|29.760427|-95.369803
+"Fancy Boat"|37.77493|-122.419416
+"Intellectual Gardener"|40.409262|49.867092
+"Freekaart"|36.169941|-115.13983
+"My Virtual CFO"|42.360083|-71.05888
+"Especialis"|18.466334|-66.105722
+"Myanmar"|1.352083|103.819836
+"Iwanna"|40.143105|47.576927
+"Bitcoin Azerbaijan"|40.409262|49.867092
+"Lawlternate"|40.712784|-74.005941
+"Heamgen"|32.715738|-117.161084
+"PC Tech Repairs"|43.073052|-89.40123
+"Memorial"|39.099727|-94.578567
+"Efficiency n Energy"|37.804364|-122.271114
+"Jo'n'Em Fashiondesign"|47.376887|8.541694
+"Rankdoor"|41.008238|28.978359
+"mobilECG Laboratories"|47.531605|21.627312
+"LiveSlide"|52.520007|13.404954
+"Mosey"|37.77493|-122.419416
+"The Dreamers - A YA Fantasy Adventure"|33.046233|-96.994174
+"KeyPS"|45.638728|-122.661486
+"Dreamokratia"|55.755826|37.6173
+"Insane Gorilla"|-34.928621|138.599959
+"WordSentry"|39.768403|-86.158068
+"Shinobi Security"|40.712784|-74.005941
+"MyWishBoard"|55.755826|37.6173
+"Sportsbox"|40.712784|-74.005941
+"Multiverse"|40.712784|-74.005941
+"Open Source Candidate"|37.77493|-122.419416
+"appalachian geothermal energy"|39.45621|-77.963887
+"FoodLoupe"|26.122439|-80.137317
+"Fine Puzzles"|53.800755|-1.549077
+"Jump On Flyaways"|56.130366|-106.346771
+"Klean Marketing"|41.600545|-93.609106
+"Predictive Analysis"|42.658366|-83.149932
+"Together"|36.852926|-75.977985
+"Pixplore"|37.338208|-121.886329
+"Bigforce"|35.9132|-79.055845
+"boxUno"|40.014986|-105.270546
+"ProvectaPOS"|47.010453|28.86381
+"Outsource Brazil"|-22.906847|-43.172896
+"VibeWrite"|51.165691|10.451526
+"Effortless Aquaponics"|44.564566|-123.262043
+"Eat Cheap"|-31.953513|115.857047
+"New-Tams"|44.669781|-74.981308
+"Netwrkr"|25.76168|-80.19179
+"Lateral View"|37.77493|-122.419416
+"Ironsky"|29.760427|-95.369803
+"Identical Pictures"|29.951066|-90.071532
+"LAS VEGAS EXOTIC CAR RENTALS"|36.169941|-115.13983
+"GameAnew"|42.360083|-71.05888
+"Social Coins"|47.235714|39.701505
+"My FitOption"|39.739236|-104.990251
+"We Heart Movies"|36.852926|-75.977985
+"Dynamic Defense Materials "|39.891225|-74.921832
+"Avec Soleil"|42.280826|-83.743038
+"Norman B. Jr"|40.712784|-74.005941
+"Stewart Copeland's Sacred Grove"|34.052234|-118.243685
+"Seeketing"|37.77493|-122.419416
+"ABPathfinder"|38.982228|-94.670792
+"Looking for Gamers"|32.715738|-117.161084
+"appssolut"|46.63646|14.312225
+"Wing Ma'am"|40.440625|-79.995886
+"popularc"|48.135125|11.581981
+"Connect Media"|-1.292066|36.821946
+"Novum Concepts"|39.739236|-104.990251
+"neargram"|-1.292066|36.821946
+"achatlaser.com"|18.018358|-94.678624
+"Rainbow Vibes Clothing"|36.169941|-115.13983
+"Equitech International"|38.627003|-90.199404
+"Esigingday "|33.520661|-86.80249
+"Fotetah"|40.712784|-74.005941
+"Software Testing Association - INDIA"|23.022505|72.571362
+"Amic It Media"|44.426767|26.102538
+"Restoris.com.ua"|50.4501|30.5234
+"Copygram"|57.70887|11.97456
+"VorMan"|39.550051|-105.782067
+"Events Magnet"|45.435321|28.007994
+"Six Crystals"|34.052234|-118.243685
+"Appavdoofinancing"|51.507351|-0.127758
+"Saglik Raporu Nereden Alinir"|40.943445|40.263324
+"The Michael L Gilmore Company"|31.327119|-89.290339
+"Talentize "|34.052234|-118.243685
+"Levitate Technologies"|32.715738|-117.161084
+"Legionem"|34.746481|-92.289595
+"Alpha R E Investment"|51.507351|-0.127758
+"Dose Control"|38.040584|-84.503716
+"BGTRONICA"|42.697708|23.321868
+"POWZY"|46.519654|6.632273
+"Cheapjobs.in"|20.593684|78.96288
+"Artisticrats Childcare Center"|44.977753|-93.265011
+"Me+We social chatting"|41.878114|-87.629798
+"LikesRank"|28.613939|77.209021
+"MindSpark"|34.019454|-118.491191
+"Evnt "|39.952584|-75.165222
+"TurF1e"|48.379433|31.16558
+"YouVent"|40.712784|-74.005941
+"TNA CandyBeers"|35.282752|-120.659616
+"Knowble"|44.068202|-114.742041
+"Egos Ventures"|33.748995|-84.387982
+"Printware"|38.907192|-77.036871
+"Halla Vision"|65.012615|25.471453
+"Fresh From The Farm 365 "|40.712784|-74.005941
+"Lemniscate"|14.599512|120.98422
+"Protieto"|61.498151|23.761025
+"Nerdies"|36.06258|-94.157426
+"Sistematica"|42.499958|-70.857802
+"Virtual World Search"|30.267153|-97.743061
+"Fraktalia Studios"|59.436961|24.753575
+"Chance"|25.76168|-80.19179
+"Pirx"|50.06465|19.94498
+"Linktivate Business Network"|-26.204103|28.047305
+"Smart Sensors Institute"|54.687156|25.279651
+"MD.Voice"|55.755826|37.6173
+"PUBGLIC Service"|12.879721|121.774017
+"Northern Cannabis"|43.653226|-79.383184
+"Coshared"|56.949649|24.105186
+"V3Solar"|34.052234|-118.243685
+"Italia Regina"|40.712784|-74.005941
+"transforming bed"|35.5889|-5.362552
+"Autism Service Provider & Beyond "|41.750839|-88.153535
+"Lola's"|39.952584|-75.165222
+"CookingBuffs"|54.525961|15.255119
+"Intermingles"|33.748995|-84.387982
+"Immoinverse"|46.227638|2.213749
+"Darkside Scientific"|24.524654|39.569184
+"LASVIII Paris"|48.856614|2.352222
+"myhappyscore.com"|37.885758|-122.11802
+"shmartochki"|27.751828|-82.626734
+"Eubios Therapeutica Private"|17.385044|78.486671
+"TIERRA PERUANA (Peruvian Land)"|-12.046374|-77.042793
+"höwlnotifys"|17.385044|78.486671
+"Products for Robots"|33.748995|-84.387982
+"Speedoodle"|45.523062|-122.676482
+"SupremeWebinar"|41.878114|-87.629798
+"Uneeds"|35.689488|139.691706
+"Small Map"|47.60621|-122.332071
+"Vasyl's Pizza"|43.038903|-87.906474
+"Overwatch"|34.769536|-92.267094
+"Integrated Industry Ecology Pty.Ltd "|-27.471011|153.023449
+"H2 MO2ORS"|42.101483|-72.589811
+"Foodie Feasts"|28.083627|-80.608109
+"T.H.I.S"|37.971559|-87.57109
+"Skip Thomas Productions"|41.593105|-81.526787
+"TastyTripApp"|46.77121|23.623635
+"Beauty Salon Delivery"|20.659699|-103.349609
+"Food Porn T Shirt Co."|35.198284|-111.651302
+"The News In Two"|34.052234|-118.243685
+"Pillar Games"|30.421309|-87.216915
+"Cinegif"|30.267153|-97.743061
+"Black Code"|30.165821|-95.461262
+"CorkCRM"|42.736979|-84.483865
+"IdleCampus"|19.075984|72.877656
+"AirKitty"|53.480759|-2.242631
+"Shop-In-Box"|50.4501|30.5234
+"SocialMediaAge.com"|40.712784|-74.005941
+"AppLyst.Me"|35.9132|-79.055845
+"dog-finder.org"|37.507877|15.08303
+"Artwardly"|35.149534|-90.04898
+"WinWinHost"|34.052234|-118.243685
+"MyMedLeads.com"|30.267153|-97.743061
+"Three Lakes Software"|37.77493|-122.419416
+"Broadway Buds Mobile Collective"|32.715738|-117.161084
+"Walking Meetings - WalkingMeetings.com"|42.360083|-71.05888
+"Quest to Teach"|38.10742|-122.569703
+"SolarList"|40.712784|-74.005941
+"Neon Mobile"|30.267153|-97.743061
+"Wlinkster"|28.613939|77.209021
+"Mens Wellness Centers"|36.169941|-115.13983
+"memmo"|18.486058|-69.931212
+"Infrax Systems"|27.751828|-82.626734
+"Crowder"|-33.867487|151.20699
+"ufixmebd"|-35.282|149.128684
+"PMK "|-14.235004|-51.92528
+"Top Tier Performance"|38.252665|-85.758456
+"Warrior Gymnasia"|39.739236|-104.990251
+"StarSpot Live"|32.715738|-117.161084
+"Gear Webs"|28.613939|77.209021
+"Contextuall"|40.712784|-74.005941
+"Freeman Motorbikes"|34.540024|-112.468502
+"SadCheese"|53.408371|-2.991573
+"Freak Minds Recreation & Entertainment"|28.613939|77.209021
+"XiaoSheng.fm"|39.904211|116.407395
+"backpackeragency"|-33.867487|151.20699
+"BUILD"|37.77493|-122.419416
+"DubaiMART.com"|25.204849|55.270783
+"Los Angeles Diversity Film Festival"|34.052234|-118.243685
+"Cornerstone Realty Capital"|37.77493|-122.419416
+"Magnus Gyan"|40.712784|-74.005941
+"Internet Media Empire"|39.952584|-75.165222
+"The Magic Mist"|42.325578|-87.841182
+"nickvopsteele (NVS)"|41.878114|-87.629798
+"AccessABLE"|39.32924|-82.101255
+"MossmanEvents"|43.653226|-79.383184
+"SongTangle"|39.099727|-94.578567
+"Venture Ace"|30.633262|-97.677984
+"Vessix "|34.052234|-118.243685
+"Touchemedical"|32.794046|34.989571
+"The Yellow Candy Shoppe"|34.257607|-88.703386
+"Click Here...and Love Making Movies"|40.712784|-74.005941
+"AnswerCents"|37.207906|-4.657306
+"TapTab"|38.971669|-95.23525
+"Capital Clique Records"|26.122439|-80.137317
+"Phox Charge"|30.267153|-97.743061
+"Chronicles of Earth"|37.338208|-121.886329
+"ZNG Life"|25.032969|121.565418
+"DayCast"|34.052234|-118.243685
+"Zuni Tea Company"|37.77493|-122.419416
+"Wavve"|41.878114|-87.629798
+"Manch"|19.075984|72.877656
+"Fortune Innovations Chicago"|41.878114|-87.629798
+"R.N.M Enterprises"|7.873054|80.771797
+"Chefler"|37.77493|-122.419416
+"ImageSound"|40.712784|-74.005941
+"World Market Vendor Services"|34.052234|-118.243685
+"Global Economic Impact Forum"|37.948544|-91.77153
+"Sharpeye - GoInlive"|34.052234|-118.243685
+"ethTV"|37.338208|-121.886329
+"All Er Nothing Productions"|39.768403|-86.158068
+"The Legally Steal Show"|27.950575|-82.457178
+"MicroLocation "|-21.762424|-43.3434
+"Ziptek"|27.336435|-82.530653
+"Senor Pescador Ltd. Co."|33.68906|-78.886694
+"Mexo"|37.338208|-121.886329
+"Ghar360"|12.971599|77.594563
+"iDecorate "|22.396428|114.109497
+"MoveOn MobTech"|-19.916681|-43.934493
+"Romanoff S.A"|40.712784|-74.005941
+"Cumi"|-17.825166|31.03351
+"Web Development Company"|30.604981|74.255787
+"Skyhigh Visual Communications"|60.173324|24.941025
+"The Deborah Interviews Show"|36.169941|-115.13983
+"Employment Pursuer.com"|34.052234|-118.243685
+"Baton"|35.46756|-97.516428
+"Ncrease"|38.907192|-77.036871
+"Medigaplist.com"|39.952584|-75.165222
+"Live Fly"|40.712784|-74.005941
+"The Beverly Dentistry"|34.07362|-118.400356
+"Kumo"|4.710989|-74.072092
+"Palo Alto Comunicação Digital"|-19.916681|-43.934493
+"HIVE"|14.599512|120.98422
+"NeuroTek Medical"|32.776664|-96.796988
+"TheeKornerStore.com "|34.052234|-118.243685
+"Mi Ola"|40.712784|-74.005941
+"MOW.fm"|50.4501|30.5234
+"FreeMeals.ca"|45.501689|-73.567256
+"Berry.Travel"|55.755826|37.6173
+"Mianzi Fashion"|34.052234|-118.243685
+"CAPITAL CONSULTING"|15.120142|-23.605172
+"Toothpick Guide"|25.76168|-80.19179
+"Sun Robotics"|33.598394|73.044135
+"Shift Energy Group"|33.448377|-112.074037
+"SAMAPOS"|-33.867487|151.20699
+"Social Point"|25.686614|-100.316113
+"Witit"|30.267153|-97.743061
+"LOC Enterprises"|39.103118|-84.51202
+"MajicFilms Entertainment"|40.712784|-74.005941
+"ELM BABY LLC (www.elmlbaby.com)"|32.941236|-97.134178
+"talkd"|41.008238|28.978359
+"Cuz-D manufacturing"|47.037874|-122.900695
+"Medusa CMS"|30.267153|-97.743061
+"C&C Cannabis Company"|47.60621|-122.332071
+"Cyclops Gear"|39.739236|-104.990251
+"WyP"|-23.50153|-47.45256
+"KidzMat Global Enterprises"|32.776664|-96.796988
+"Venuefox"|41.600545|-93.609106
+"SalesScripter"|29.760427|-95.369803
+"LazyStudios"|37.983917|23.72936
+"Worldwide Media"|39.952584|-75.165222
+"SESemail"|13.756331|100.501765
+"TVME"|55.755826|37.6173
+"The SandPad ™ - American Ventures"|42.072251|-87.722838
+"TPA"|37.77493|-122.419416
+"Spoolster Group Pte"|1.352083|103.819836
+"Jotgram"|33.748995|-84.387982
+"Sweet Spot Productions"|34.420831|-119.69819
+"Crowd Sense Technologies"|42.697708|23.321868
+"Citizen Journalism"|-27.471011|153.023449
+"doBrasilShop.com"|40.712784|-74.005941
+"Travellers Club"|19.075984|72.877656
+"Shut Down"|39.613321|-105.01665
+"The Float Capsule"|29.424122|-98.493628
+"Wroblewski Aircraft"|40.440625|-79.995886
+"Ignite Social Web"|33.629234|-112.367928
+"Gaia One"|26.142036|-81.79481
+"Gremarol Pty"|-33.867487|151.20699
+"HRsoft"|28.538336|-81.379236
+"The S Kumar Talk Show"|37.338208|-121.886329
+"Partimer A Lakshmi LLC Company"|37.441883|-122.143019
+"SmartBoxt"|39.952584|-75.165222
+"HH HOLISTIC RETREAT CENTER"|40.712784|-74.005941
+"The Target Labs"|37.804364|-122.271114
+"RosterReport"|43.653226|-79.383184
+"NovoGenie"|61.92411|25.748151
+"MaglevTrans"|30.267153|-97.743061
+"Quierenentradas.com"|-34.603684|-58.381559
+"Wise World 2012 "|22.396428|114.109497
+"MaglevTrans"|30.267153|-97.743061
+"ChipperList"|32.715738|-117.161084
+"LubriMan (think: Jiffy Lube on Wheels)"|40.712784|-74.005941
+"Adatkocka"|47.497912|19.040235
+"kinCORP"|0.347596|32.58252
+"AFK Gamer Lounge"|37.387474|-122.057543
+"VisionWorks"|34.052234|-118.243685
+"Keeping It Local"|34.052234|-118.243685
+"Hilltop Energy Partners"|38.907192|-77.036871
+"VinPal"|39.103118|-84.51202
+"Mantality Magazine"|28.538336|-81.379236
+"fanmorphic"|47.60621|-122.332071
+"Open School EduTech"|40.712784|-74.005941
+"Teraphysics"|41.49932|-81.694361
+"LystMe"|34.052234|-118.243685
+"Anderson Funding Group"|38.907192|-77.036871
+"Health Freedom Network"|41.878114|-87.629798
+"Together Care"|43.653226|-79.383184
+"Luminos"|38.907192|-77.036871
+"StethoLab"|35.040016|33.123905
+"Aroundmyzip.com"|40.712784|-74.005941
+"Soxiety"|51.507351|-0.127758
+"ShopInPower"|37.09024|-95.712891
+"InLoc8"|8.524139|76.936638
+"Lake Zone Charter Services"|-2.51643|32.917452
+"Yes Man Watches"|32.715738|-117.161084
+"Super1003"|34.052234|-118.243685
+"Perkins Energy Partners"|33.683947|-117.794694
+"Who Browser"|26.368306|-80.128932
+"Rager"|38.581572|-121.4944
+"Pyatt Broadmark Management"|47.60621|-122.332071
+"Impact Investing San Antonio"|29.424122|-98.493628
+"Scripts"|45.267135|19.83355
+"Becky Laura's Homecare"|34.052234|-118.243685
+"HealthForce Automations"|41.763711|-72.685093
+"PocketRent"|-40.900557|174.885971
+"20 Questions"|37.338208|-121.886329
+"Air Bay Creative (Hong Kong)"|22.543099|114.057868
+"The Warehouse"|41.600545|-93.609106
+"Payr"|41.49932|-81.694361
+"Set4Golf"|39.739236|-104.990251
+"Ashem"|40.712784|-74.005941
+"BBU Pharmaceuticals"|55.755826|37.6173
+"The Geographical"|39.074208|21.824312
+"LendingStar"|48.379433|31.16558
+"East Tennessee Pit Bull Rescue"|35.960638|-83.920739
+"Extradenaire"|34.052234|-118.243685
+"Little details"|25.204849|55.270783
+"Plastbot Industries"|44.494887|11.342616
+"BankmyBiz.com"|43.073052|-89.40123
+"GYMOline"|-12.046374|-77.042793
+"Citizen In Need"|40.712784|-74.005941
+"Game Labs"|50.4501|30.5234
+"Pupakiotti "|45.465422|9.185924
+"Passions Realtor Investments"|37.029869|-76.345222
+"Smokers Vape"|32.715738|-117.161084
+"prostox, llc "|41.49932|-81.694361
+"Flextrela"|43.653226|-79.383184
+"FashionValet"|3.139003|101.686855
+"AOMENTOR"|61.52401|105.318756
+"Dream Stars Academy DC"|38.907192|-77.036871
+"Synoptic-Entertainment"|51.165691|10.451526
+"Bableonaut"|42.878213|-8.544844
+"1 800 SHOPPING"|41.878114|-87.629798
+"Hair 911"|34.002879|-84.144638
+"Avio Maps"|9.101179|-79.402864
+"PetBookings"|36.555239|-121.923288
+"Forever Yogurt "|41.878114|-87.629798
+"DriveAngel"|51.507351|-0.127758
+"Triple Edge Service"|-23.967882|-46.328887
+"coTrain"|12.971599|77.594563
+"DreamLease"|37.77493|-122.419416
+"Buysumo Resources Company "|1.607681|110.378544
+"Eko USA"|32.776664|-96.796988
+"wrapcode infotech"|22.303895|70.80216
+"Upstream Analytics"|38.907192|-77.036871
+"GPOP"|37.77493|-122.419416
+"iHealth"|55.755826|37.6173
+"BorneoBuy.com "|4.210484|101.975766
+"Style Struck "|26.531787|-80.090547
+"Style Struck "|26.531787|-80.090547
+"SqueePlay"|42.360083|-71.05888
+"The Clean Swipe Razor"|45.638728|-122.661486
+"RentSpek"|41.878114|-87.629798
+"PeopleWay Srl"|39.223841|9.121661
+"Mixley"|38.581572|-121.4944
+"Niched"|40.712784|-74.005941
+"Myfamilyroom"|34.052234|-118.243685
+"Classic Car Dave"|27.950575|-82.457178
+"Tourplanner.pk"|33.598394|73.044135
+"Fybe"|52.040622|-0.759417
+"Blue Paradise"|54.525961|15.255119
+"Lost Beat"|28.613939|77.209021
+"One Kidney Is Enough, Inc. "|33.448377|-112.074037
+"Localista Magazine"|33.849182|-118.388408
+"My Safe Beacon "|33.748995|-84.387982
+"Center for Applied Rationality"|37.871593|-122.272747
+"FaucetFarm.com"|39.961176|-82.998794
+"Anomo"|47.60621|-122.332071
+"ATRIVU"|33.150674|-96.823612
+"Cheapon"|45.501689|-73.567256
+"AQUASENSE INTERNATIONAL"|9.101179|-79.402864
+"Pellet"|48.379433|31.16558
+"Primo Mobile"|22.396428|114.109497
+"#TNM The New Music Movement "|40.273191|-76.886701
+"Masterhive"|43.653226|-79.383184
+"Sabina Oil & Gas"|32.776664|-96.796988
+"Casa America"|-22.422971|-45.460251
+"Cliclock"|37.77493|-122.419416
+"NERD BAR "|33.68906|-78.886694
+"MeTee"|35.517491|-86.580447
+"Abyss Gaming"|45.638728|-122.661486
+"Alliphant"|37.235808|-121.962375
+"BluWave Software"|-26.204103|28.047305
+"RoadAR"|55.830431|49.066081
+"J. Opulence No. 5 in Fm"|39.097283|-93.617172
+"Moonfrye"|34.052234|-118.243685
+"Neon"|37.338208|-121.886329
+"Opinyon"|34.052234|-118.243685
+"Distribuddy"|50.937531|6.960279
+"MobaNode"|52.66802|-8.630498
+"Examany.com"|19.876165|75.343314
+"VERTICRAFT"|26.142036|-81.79481
+"BonjourBonjour"|48.856614|2.352222
+"SiftDeck"|-1.292066|36.821946
+"SiteSecure"|55.755826|37.6173
+"Crazy Goat Studios"|31.768319|35.21371
+"JobReneur "|31.768319|35.21371
+"The Palmetto Group"|33.68906|-78.886694
+"Cash-My-Check"|37.09024|-95.712891
+"CYBORGDEF RESEARCH"|28.613939|77.209021
+"Knoitall"|32.715738|-117.161084
+"lizy545@yahoo.com"|52.809228|9.964164
+"Milluminati Records"|35.135939|-114.528598
+"Sassy Bloom"|51.507351|-0.127758
+"Harmon International Petroleum"|34.052234|-118.243685
+"Sgnify"|41.878114|-87.629798
+"RoboKind"|32.776664|-96.796988
+"Pela Huevos de Costa Rica"|9.928069|-84.090725
+"Linkadu"|-30.034647|-51.217658
+"FlockMiner"|31.768319|35.21371
+"CloudWebStore"|34.07362|-118.400356
+"Court Square Photography"|27.950575|-82.457178
+"GO MO Group AB"|60.128161|18.643501
+"AirieMarie"|37.441883|-122.143019
+"Joshua & Caleb Ministries"|33.956215|-83.987962
+"New Media, New Marketing"|37.441883|-122.143019
+"DragonDeal22"|49.233888|-124.805549
+"the Brick Box Studio"|37.208957|-93.292299
+"Gurudeen Marketing"|26.846694|80.946166
+"Small Data"|37.77493|-122.419416
+"Long IT Group"|37.839333|-84.270018
+"Vixxa"|37.77493|-122.419416
+"Drank South Africa"|-26.204103|28.047305
+"stockickr"|37.77493|-122.419416
+"Loukretiv"|26.140364|-80.213381
+"W.O.D. Calgary"|51.048615|-114.070846
+"Cornfed Systems"|39.739236|-104.990251
+"XL2DB"|37.558547|-122.271079
+"iri"|41.140276|-100.760145
+"BRCK"|-1.292066|36.821946
+"Spot"|-14.235004|-51.92528
+"Best Furniture Ideas"|-1.292066|36.821946
+"HT Applications"|53.201233|5.799913
+"Breathe Radio"|37.77493|-122.419416
+"LoveAbles"|43.544596|-96.731103
+"Bitbarter"|39.055824|-95.689018
+"Our Signature by IGDP"|29.760427|-95.369803
+"LINEUP"|38.907192|-77.036871
+"Yapiko-animation"|35.689488|139.691706
+"Your Music Company"|34.052234|-118.243685
+"Trans*H4CK"|37.804364|-122.271114
+"Spacebar"|37.77493|-122.419416
+"ARTISANA"|-12.046374|-77.042793
+"Greenvolved"|42.360083|-71.05888
+"LunarTuna Labs & Enterprises "|33.49417|-111.926052
+"GuestNetix"|40.391617|-111.850766
+"Too Easy English"|6.253041|-75.564574
+"Cashbackia.com"|41.385064|2.173403
+"PointSalon"|48.856614|2.352222
+"FareExchange Network"|51.507351|-0.127758
+"StationDigital"|34.07362|-118.400356
+"Ag Armour"|40.693649|-89.588986
+"Glide Vacations"|39.952584|-75.165222
+"KAEPS SPORTS"|40.712784|-74.005941
+"Karlheim Auto Bids"|32.776664|-96.796988
+"Safety By Cloud Inc. "|52.133214|-106.670046
+"Advedia360"|-6.208763|106.845599
+"Taylorcraft Airplane Company"|29.883275|-97.941394
+"MelStevia"|35.595058|-82.551487
+"Michael Sheldon Reed Design"|33.448377|-112.074037
+"Link Communications"|45.783286|-108.50069
+"Bowen Partners"|3.139003|101.686855
+"Hoopurbia"|52.520007|13.404954
+"Capricorn Media"|22.396428|114.109497
+"explain3D"|49.22159|18.741952
+"NavTool"|40.712784|-74.005941
+"OCHackerz"|33.641132|-117.918669
+"Fortune Innovations Berlin"|52.520007|13.404954
+"Captivated Marketing Solutions"|53.544389|-113.490927
+"SOS Clothing"|40.712784|-74.005941
+"LJ Carroll"|-33.867487|151.20699
+"App4page"|49.817492|15.472962
+"Konkourse"|38.907192|-77.036871
+"Hammercraft Const. & Development"|45.309723|9.503716
+"SiftyNet"|50.075538|14.4378
+"Martell TV"|30.267153|-97.743061
+"AppTweak"|50.85034|4.35171
+"eMirk"|40.712784|-74.005941
+"Get Lit"|36.186744|-94.128814
+"PsyProblems"|50.4501|30.5234
+"Pangianet"|34.233137|-102.410749
+"Bitmarkers"|36.169941|-115.13983
+"AllGreen Energy Pte."|12.971599|77.594563
+"BSTinnovation"|42.878213|-8.544844
+"Middle Ridge"|32.715738|-117.161084
+"American Language University"|34.073902|-117.313655
+"Stalker Mobile App."|55.755826|37.6173
+"Taletyme"|34.052234|-118.243685
+"LIG Energy Solutions"|11.468654|31.228296
+"Crafterstown"|33.448377|-112.074037
+"NetUP"|42.878213|-8.544844
+"Pet&Net"|38.994349|-1.858542
+"twinzAPP Digital"|26.142036|-81.79481
+"KRSNA WORLD ENTERTAINMENT"|40.712784|-74.005941
+"X-15 Project"|37.77493|-122.419416
+"Skyalleys "|31.230416|121.473701
+"WOW1DAY Painting"|39.290385|-76.612189
+"Katesmokes"|37.77493|-122.419416
+"Volo"|42.546701|-83.211319
+"Dynasty Sports and Gaming"|40.712784|-74.005941
+"Rapid search"|-33.867487|151.20699
+"Ackuna"|40.728157|-74.077642
+"Lazarus Bioscience"|37.441883|-122.143019
+"Engine"|30.267153|-97.743061
+"30 Second Showcase"|40.712784|-74.005941
+"SYNCALIKE"|33.980289|-118.451745
+"anand"|37.593392|-122.04383
+"Here@ Networks"|44.977753|-93.265011
+"snapAsong"|41.878114|-87.629798
+"Frontline Insights"|44.977753|-93.265011
+"Yunlicai"|30.274085|120.15507
+"VSRD Private"|25.317645|82.973914
+"Elite Cupcakery"|39.961176|-82.998794
+"Careeref"|40.712784|-74.005941
+"Pleso Capital Group"|40.440625|-79.995886
+"BlastPress"|40.712784|-74.005941
+"Arte Manifiesto"|-12.046374|-77.042793
+"Reaction Games"|33.77005|-118.193739
+"Parental Mingle"|30.267153|-97.743061
+"The Portal Shop"|33.748995|-84.387982
+"The Next Classified"|43.653226|-79.383184
+"Wound Care Services"|27.950575|-82.457178
+"Truly Organic"|40.712784|-74.005941
+"Parsoco"|34.052234|-118.243685
+"Spirit of Camp"|41.763711|-72.685093
+"Jericho Airsoft"|33.553914|-117.213923
+"bioZhena"|39.550051|-105.782067
+"Avivid Technologies Group"|40.167207|-105.101927
+"Notebetter"|51.507351|-0.127758
+"MatrixED [] New Education in Africa"|6.524379|3.379206
+"Cyrano"|34.052234|-118.243685
+"Fuller buildings"|37.387474|-122.057543
+"dbleudazzled"|34.052234|-118.243685
+"ARCBuro.com"|55.755826|37.6173
+"Yovdo"|12.971599|77.594563
+"PhDTree"|31.230416|121.473701
+"Australian GeoTomography"|-31.953513|115.857047
+"Happy Families"|48.856614|2.352222
+"Cape Heart Technologies"|29.984092|-90.152852
+"BigFatFunMachine"|19.432608|-99.133208
+"15minutesNOW.com"|32.715738|-117.161084
+"Postargram"|25.76168|-80.19179
+"FotoFuze"|32.776664|-96.796988
+"Relatora"|37.77493|-122.419416
+"Acts1vs8.com"|-26.204103|28.047305
+"ALGAentis- a USA C-Corp. UK LTD corp. "|51.507351|-0.127758
+"Directbook"|25.686614|-100.316113
+"This Week In Town"|42.187583|-71.30646
+"Storyboard Projects"|33.396856|-84.596343
+"Music Wormhole"|36.974117|-122.030796
+"Retail Goose"|39.739236|-104.990251
+"UnlocksCodes.com "|53.408371|-2.991573
+"Vocal (drappby, inc.)"|37.77493|-122.419416
+"Chicago Works"|41.878114|-87.629798
+"Clearway Health Solutions"|42.360083|-71.05888
+"Wild Bikers Motorcycles"|37.09024|-95.712891
+"WorkoutLand"|41.823989|-71.412834
+"Photo Aze"|25.204849|55.270783
+"InvenQuery"|39.099727|-94.578567
+"XtraDot Technologies"|6.524379|3.379206
+"CityBric"|23.12911|113.264385
+"Sepior (KMaaS Aps)"|55.676097|12.568337
+"Confluence "|20.593684|78.96288
+"PicGhost"|26.820553|30.802498
+"Skylight Technologies"|9.076479|7.398574
+"Masterseek.com"|40.712784|-74.005941
+"Spider "|31.554606|74.357158
+"Kai Yoga"|32.715738|-117.161084
+"Swarmbooks"|33.748995|-84.387982
+"El Bazar Mx"|19.432608|-99.133208
+"DogDate"|-30.034647|-51.217658
+"BevRAGE Group Int'l"|33.748995|-84.387982
+"Together"|55.755826|37.6173
+"TIPTOPTEMP"|44.977753|-93.265011
+"Software Progressions"|37.910078|-122.065182
+"AdviceGrab"|12.971599|77.594563
+"Thanks, Bro"|40.712784|-74.005941
+"KZN Southdown Farming"|-29.87479|30.277399
+"Source Pro Solutions"|42.48059|-83.475491
+"Grip Clutch"|34.052234|-118.243685
+"SevenForty Pictures"|34.052234|-118.243685
+"Boatyard"|26.122439|-80.137317
+"Greetlane"|4.901579|-1.783097
+"SharpyFish"|37.77493|-122.419416
+"TaxiShair"|40.712784|-74.005941
+"Texyon Games"|39.469908|-0.376288
+"SkyList"|41.878114|-87.629798
+"Playcative "|32.0853|34.781768
+"La Grama Brewery - Manila, Philippines"|14.599512|120.98422
+"Global Conservation Group"|43.194721|-88.728992
+"ADG Tchnocrats Engineering Company"|18.52043|73.856744
+"AvatarROM"|1.352083|103.819836
+"MenuAcapulco.com"|16.853109|-99.823653
+"FLUVIP"|37.387474|-122.057543
+"NEW SUCCESSFULMAN PIPE"|22.270715|113.576726
+"Vacaciones en Guerrero"|19.432608|-99.133208
+"WholeYum"|33.748995|-84.387982
+"ImperviousMonster"|38.846224|-77.306373
+"L'homme de L'heure"|33.748995|-84.387982
+"Get slim"|55.755826|37.6173
+"Fighting4aCause"|40.712784|-74.005941
+"BandHacks"|40.760779|-111.891047
+"Mi Mapps"|4.710989|-74.072092
+"Intrusion Technologies"|29.187199|-82.140092
+"Opencolours"|19.432608|-99.133208
+"Creativos Nomano"|21.161908|-86.851528
+"MicroPyramid"|17.385044|78.486671
+"VidGage"|38.581572|-121.4944
+"TADE"|19.432608|-99.133208
+"S.WILL Industrial"|22.543099|114.057868
+"LTTnews"|35.125801|-117.985904
+"TTT Investment Pty"|-33.867487|151.20699
+"VINKD"|19.432608|-99.133208
+"Our Wicked Lady"|40.712784|-74.005941
+"Your Adoption Finance Coach"|39.099727|-94.578567
+"Walltik"|41.385064|2.173403
+"InfoPye"|35.79154|-78.781117
+"Squarecade"|33.214841|-97.133068
+"Hyper Peer"|-33.924868|18.424055
+"The Paleo Market"|-31.953513|115.857047
+"Maze"|-33.867487|151.20699
+"BestCarShops.com"|26.368306|-80.128932
+"Eventpig "|51.507351|-0.127758
+"Verifeed"|38.907192|-77.036871
+"Ripple Music"|36.162664|-86.781602
+"SeniorMove.com"|39.739236|-104.990251
+"Happy Hourz Daiquiri Bar"|25.76168|-80.19179
+"Smart Car"|42.878213|-8.544844
+"iBoost Internet Marketing Company"|-30.559482|22.937506
+"coursewave"|19.075984|72.877656
+"Dream Energies SRL of CV"|20.659699|-103.349609
+"Kingaroo Pouche"|41.878114|-87.629798
+"PatientDox"|41.878114|-87.629798
+"Thunderbird Productions"|32.776664|-96.796988
+"Mythos360"|41.385064|2.173403
+"Berry Brains"|51.507351|-0.127758
+"Southern Swim Co."|36.06258|-94.157426
+"Anaar"|51.92442|4.477733
+"Deals Of Scale "|32.776664|-96.796988
+"HYDROENERGY"|39.555732|21.767895
+"Firma 9"|45.415745|19.893107
+"Worldinteract"|33.748995|-84.387982
+"Linnovision"|40.712784|-74.005941
+"OpenRecruiters"|34.047863|100.619655
+"Inmobi-Hunter Alivio Inmobiliario"|42.878213|-8.544844
+"Tommy Pastrami"|33.448377|-112.074037
+"ROAHS"|36.169941|-115.13983
+"Saturn Five"|20.588793|-100.389888
+"ONE OCEAN DRIVE"|34.052234|-118.243685
+"Kivo"|37.441883|-122.143019
+"GuruSchedule"|33.542248|-117.78311
+"Aggify"|34.052234|-118.243685
+"Pictarine"|41.878114|-87.629798
+"etece.es"|40.416775|-3.70379
+"Freeppie "|43.76956|11.255814
+"TaxiMe"|50.445211|-104.618894
+"BetFlock"|55.008353|82.935733
+"BuckGet.com"|40.440625|-79.995886
+"Konnect Solutions "|37.338208|-121.886329
+"Pipa"|-22.906847|-43.172896
+"BUENAMARCA.COM"|4.570868|-74.297333
+"Stolen Couch Games"|52.22917|5.166897
+"Mapidy"|51.507351|-0.127758
+"CG Starlight"|19.041297|-98.2062
+"SkyTower Insurance"|41.878114|-87.629798
+"hivarsity"|6.524379|3.379206
+"42angelitos"|37.441883|-122.143019
+"Orion Productions"|45.523062|-122.676482
+"City Wifi"|19.432608|-99.133208
+"twipbox"|48.856614|2.352222
+"Raynforest"|32.715738|-117.161084
+"Bongo Studios"|19.432608|-99.133208
+"Prevently"|37.77493|-122.419416
+"Solvantec"|25.686614|-100.316113
+"FuturaPrep"|42.878213|-8.544844
+"Sustainable Projects Engineering"|19.432608|-99.133208
+"Fidel"|51.507351|-0.127758
+"Have And Seek"|51.23622|-0.570409
+"SIITNE"|32.85806|-114.78833
+"Uxibit"|37.77493|-122.419416
+"Traffiki"|6.524379|3.379206
+"Carbonixx"|34.147785|-118.144516
+"Noor Star"|26.228516|50.58605
+"Sixy Press"|37.208957|-93.292299
+"BeamKit"|37.983917|23.72936
+"Central African Capital Holdings"|3.848033|11.502075
+"Ice Water Productions"|34.052234|-118.243685
+"Glokalbox"|19.432608|-99.133208
+"FanAddict"|39.099727|-94.578567
+"Brion Softwares"|9.931233|76.267304
+"ARAZAS"|45.638728|-122.661486
+"Fitoop"|36.169941|-115.13983
+"Liaoning Qiwei Energy"|42.546307|124.038268
+"Yodh Power and Technologies Gr. Co.,Ltd."|22.396428|114.109497
+"Nerover"|25.204849|55.270783
+"R2V"|37.45296|-122.181725
+"Bedscapes 4 Kidz"|39.729432|-104.83192
+"threeDegrees"|40.712784|-74.005941
+"DARKNICER - A Major Motion Picture"|30.267153|-97.743061
+"Brightler"|34.233137|-102.410749
+"LocPro"|31.554606|74.357158
+"itrak"|31.554606|74.357158
+"Royal Court "|34.07362|-118.400356
+"Democratic Fashion"|35.686975|-105.937799
+"Taylor Energy Alternatives"|39.952584|-75.165222
+"Baskit"|37.77493|-122.419416
+"Oasis Poker Resorts"|43.653226|-79.383184
+"ProHealth Mobile"|34.233137|-102.410749
+"Jaqard"|45.438384|10.991622
+"Convetit"|37.441883|-122.143019
+"DOwhit.com"|40.440625|-79.995886
+"ViRTOO"|55.676097|12.568337
+"Evobar"|3.139003|101.686855
+"Glance"|48.379433|31.16558
+"Mavuno Harvest"|39.952584|-75.165222
+"CG TV AB"|60.472024|8.468946
+"PosterGully"|28.613939|77.209021
+"NextShark"|34.052234|-118.243685
+"ASTORIA FILMS "|40.712784|-74.005941
+"ClicData"|47.60621|-122.332071
+"Biocrude"|38.907192|-77.036871
+"Peter Hudak"|48.933875|21.910721
+"Campus Cabby"|40.425869|-86.908066
+"Goodzer"|38.958631|-77.357003
+"Relevance3"|49.872825|8.651193
+"Excellup "|28.613939|77.209021
+"RoboLabs"|26.23786|-80.124767
+"pictofigo"|22.572646|88.363895
+"Anchor Fitness"|29.760427|-95.369803
+"Patron21"|41.878114|-87.629798
+"RoomScapeU"|30.438256|-84.280733
+"Blogo"|-22.906847|-43.172896
+"Nice Landing Pictures"|39.739236|-104.990251
+"Complement Labs"|37.77493|-122.419416
+"Karangoo.com"|37.77493|-122.419416
+"Helix NYC"|40.712784|-74.005941
+"HubGain"|52.954783|-1.158109
+"Suavesoles"|52.370216|4.895168
+"Raw Evo"|40.712784|-74.005941
+"Dreamme"|55.755826|37.6173
+"Astanza Laser"|29.760427|-95.369803
+"Fluency"|51.507351|-0.127758
+"ALLE - New Technologies in Life Sciences"|-30.034647|-51.217658
+"Redwing Business Intelligence"|55.378051|-3.435973
+"Sociobuddy"|28.613939|77.209021
+"Start-UP Blaster "|30.267153|-97.743061
+"Kaseva"|38.907192|-77.036871
+"xprice"|5.839444|118.117173
+"3BidSale"|42.580312|-83.030203
+"NGOKarma"|38.969555|-77.386098
+"Lynergy"|3.139003|101.686855
+"Plobal"|18.52043|73.856744
+"Giclie"|48.379433|31.16558
+"DearParents"|11.341036|77.717164
+"E-Fi"|35.689488|139.691706
+"6C Rock Candy"|38.581572|-121.4944
+"MosaicStudio"|44.977753|-93.265011
+"My Campus List"|38.907192|-77.036871
+"Parker Dusseau"|37.77493|-122.419416
+"HackReward"|18.52043|73.856744
+"Gangframe"|37.77493|-122.419416
+"The Cookie"|45.638728|-122.661486
+"Maxwell Companies and Partners"|39.758948|-84.191607
+"Wheretogo"|55.755826|37.6173
+"Swoon Beauty"|40.712784|-74.005941
+"Eleven"|55.000557|82.682426
+"EZSWYPE BUSINESS SOLUTIONS"|28.459497|77.026638
+"Intellectual Investments"|51.507351|-0.127758
+"W & W flip"|37.270702|-76.707457
+"Grow Games Interactive"|33.953349|-117.396156
+"Zobe Records"|40.141678|-75.192694
+"Karmadeeds"|-33.867487|151.20699
+"Gent E-Cigarettes"|37.77493|-122.419416
+"MONROWE Media"|40.712784|-74.005941
+"Berkley Binary Options Trading"|40.440625|-79.995886
+"Visualmarks"|25.032969|121.565418
+"discovle"|45.638728|-122.661486
+"OwlTing"|25.032969|121.565418
+"SleppSolutions"|27.950575|-82.457178
+"Wattle"|37.09024|-95.712891
+"HealthTrunk"|33.748995|-84.387982
+"Gym Company"|51.919438|19.145136
+"Movie Clock"|25.76168|-80.19179
+"Masthead Studios"|42.697708|23.321868
+"provulo"|-26.204103|28.047305
+"datavisual"|40.712784|-74.005941
+"Labyrinth.io"|17.385044|78.486671
+"TheP3K"|25.76168|-80.19179
+"VHSYS"|-25.252089|-52.021542
+"2willo"|36.169941|-115.13983
+"3DiVi Company"|37.36883|-122.03635
+"Tvisi Algo Systems"|19.075984|72.877656
+"Dick Brothers Brewing"|44.977753|-93.265011
+"Cal-X Stars Innovation Accelerator"|34.019454|-118.491191
+"Autography"|32.715738|-117.161084
+"Menlo Park Software"|42.280826|-83.743038
+"NEWMYTHIC"|34.052234|-118.243685
+"AtomOrbit"|47.681488|-122.208735
+"Sock Fancy"|33.748995|-84.387982
+"Vadxx Energy"|41.49932|-81.694361
+"Cabeo"|45.465422|9.185924
+"Fruit Salsas"|30.267153|-97.743061
+"American Paint Pro & Canadian Paint Pro"|45.638728|-122.661486
+"Direct Dialect"|25.76168|-80.19179
+"Mixtape uRadio"|52.520007|13.404954
+"doofry"|33.57311|-7.589843
+"MyLane"|52.520007|13.404954
+"Blibbing"|43.653226|-79.383184
+"VitalsCloud"|37.77493|-122.419416
+"VICEJAR"|34.019454|-118.491191
+"Ya Mastiha Liqueur"|40.712784|-74.005941
+"Nuts2Invest"|39.552282|-84.233272
+"Pono Holdings"|20.764428|-156.445006
+"FlashStarts"|41.49932|-81.694361
+"SupportYourApp"|36.778261|-119.417932
+"WagonChain"|33.683947|-117.794694
+"Tudlo"|10.315699|123.885437
+"Socialnet365"|42.697708|23.321868
+"Sportofolio"|44.786568|20.448922
+"Crave.ly"|39.768403|-86.158068
+"Rootz"|37.77493|-122.419416
+"Infomax"|27.751828|-82.626734
+"EVDrive"|45.523062|-122.676482
+"Phats"|32.715738|-117.161084
+"KuKaZi"|34.052234|-118.243685
+"Spidvid - Making Videos Together"|43.653226|-79.383184
+"Art Media Production"|58.52557|31.274193
+"AduGame"|-0.789275|113.921327
+"Bail Bond Technologies"|33.865103|-84.336592
+"OCIN"|30.04442|31.235712
+"hCentive"|38.958631|-77.357003
+"VisioEnglish"|22.396428|114.109497
+"Goomoods"|39.529633|-119.813803
+"3D-Materials"|46.227638|2.213749
+"Gondefire Productions"|41.916434|-83.39771
+"DAHU Sports Company"|46.806477|7.161972
+"RAINBOW HOSPITALITY "|9.076479|7.398574
+"AppForward"|37.77493|-122.419416
+"cphvoice"|55.676097|12.568337
+"WePopp"|48.856614|2.352222
+"Rising Sun"|51.507351|-0.127758
+"EDUCOART EDUCATION SERVICES"|12.971599|77.594563
+"Credential Cabinet"|40.712784|-74.005941
+"Wavesence"|41.878114|-87.629798
+"UHedgeFund"|48.856614|2.352222
+"EventsTiger"|30.604981|74.255787
+"Mega Auto Center"|12.16957|-68.99002
+"PROFFINANCE"|50.4501|30.5234
+"ShowMeMenu"|37.54827|-121.988572
+"nanopop"|-22.906847|-43.172896
+"Sherman3D"|35.689488|139.691706
+"Lunch Time"|15.120142|-23.605172
+"Digital Dialogue"|36.204824|138.252924
+"Sweet Unknown Studios"|28.538336|-81.379236
+"JobProx"|40.712784|-74.005941
+"CorpCache "|39.739236|-104.990251
+"New Age in Energy"|33.466972|-117.698107
+"Scout-o-Matic"|50.4501|30.5234
+"DonDada Muzik Group Entertainment"|35.085334|-106.605553
+"Mobile D.O.T. Doc"|25.76168|-80.19179
+"FullContour"|33.448377|-112.074037
+"Empire Zero"|42.652579|-73.756232
+"AdvertAn"|54.525961|15.255119
+"Agricultural Food Systems"|36.188137|-94.540496
+"NowAds"|39.163798|-119.767403
+"Prayground"|34.052234|-118.243685
+"Strip Club Tv Network"|27.950575|-82.457178
+"TheWittyShit"|28.613939|77.209021
+"Haload.com"|38.907192|-77.036871
+"Collisionable"|28.613939|77.209021
+"Work Wright"|41.885032|-87.784503
+"EthnoXity"|33.748995|-84.387982
+"612 Checkout"|54.597285|-5.93012
+"Rue13"|36.752887|3.042048
+"Global Water Technologies"|39.768403|-86.158068
+"Carrots"|12.971599|77.594563
+"HipTraveler"|34.052234|-118.243685
+"Lingerie Fighting Championships"|36.169941|-115.13983
+"Leet"|36.169941|-115.13983
+"Daido Media"|32.0853|34.781768
+"'existence before essence' "|51.507351|-0.127758
+"ViClone"|41.385064|2.173403
+"Insidey"|13.69294|-89.218191
+"PANDOO"|45.638728|-122.661486
+"Badosoft"|45.327063|14.442176
+"Redcore Interactive"|1.373333|32.290275
+"Fork"|47.60621|-122.332071
+"radiodeck"|47.166167|8.515495
+"stylios"|47.166167|8.515495
+"UpTweet "|40.712784|-74.005941
+"ORA"|37.77493|-122.419416
+"hatch"|37.804364|-122.271114
+"CelebCalls"|38.252665|-85.758456
+"IndieGameStand"|39.739072|-75.539788
+"Brogels"|20.296059|85.82454
+"TixSameDay"|33.748995|-84.387982
+"Gridcache"|47.60621|-122.332071
+"Kirei"|32.715738|-117.161084
+"Brisk"|51.507351|-0.127758
+"Z89 Game Dev"|38.722252|-9.139337
+"Fort Portal Properties"|0.654626|30.280117
+"RHEIA"|-6.917464|107.619123
+"SellSimple"|34.052234|-118.243685
+"Rent The Dress"|40.760779|-111.891047
+"TuneBreaker"|51.507351|-0.127758
+"Kartenz Studios"|-6.208763|106.845599
+"SuperFamily"|-27.595378|-48.54805
+"Instapitch"|33.748995|-84.387982
+"Capricorn Marine Exploration"|-33.924868|18.424055
+"MOZAIK Learning"|37.77493|-122.419416
+"Kickstart Smart Alarm Designs"|27.498928|-82.574819
+"OCTGN"|47.925257|-97.032855
+"Pixel Academy"|40.712784|-74.005941
+"FuzeTap"|9.101179|-79.402864
+"magNifi"|22.396428|114.109497
+"Karabo Manne"|-25.747868|28.229271
+"Big House Studio"|37.77493|-122.419416
+"TripThirsty"|12.971599|77.594563
+"DoYouRemember "|25.76168|-80.19179
+"TalkRabbit"|51.507351|-0.127758
+"Wizely"|41.878114|-87.629798
+"The OmniPad Company"|39.952584|-75.165222
+"dextr.it"|27.336435|-82.530653
+"Wallary"|43.222015|76.851249
+"Freedom Energy International"|30.984298|-91.962333
+"BakeSale"|38.907192|-77.036871
+"FLM.TV"|37.77493|-122.419416
+"Ovoice"|43.835571|25.965655
+"Atomic Tower"|42.360083|-71.05888
+"Vudubu"|41.008238|28.978359
+"mylap.se"|54.687156|25.279651
+"Puzzle World Games"|34.052234|-118.243685
+"Times Twenty Five (LeanCiti Ltd)"|52.520007|13.404954
+"31rainfall Interactive"|30.604981|74.255787
+"Petcarebridge"|59.436961|24.753575
+"Joy & Revelry"|37.77493|-122.419416
+"Strike Social"|34.052234|-118.243685
+"Our Home Transitional"|43.012527|-83.687456
+"Identify Security Software"|26.368306|-80.128932
+"Future Infinite Simulations"|45.501689|-73.567256
+"everestauctions.com"|34.052234|-118.243685
+"Hullabu"|47.60621|-122.332071
+"Chorusplay"|12.971599|77.594563
+"Kindred Prints"|37.441883|-122.143019
+"Ringent.com"|37.09024|-95.712891
+"Spaceship App"|37.77493|-122.419416
+"Rent The Dress"|40.760779|-111.891047
+"Eollice"|42.878213|-8.544844
+"Go Mighty"|40.712784|-74.005941
+"BLUWIRED"|37.77493|-122.419416
+"Tawssela Express"|30.04442|31.235712
+"Proposify"|53.72702|-1.85754
+"David Clark Group P/L"|-27.471011|153.023449
+"Politics Watch"|45.42153|-75.697193
+"CollabMate"|45.815011|15.981919
+"myMedScore"|37.77493|-122.419416
+"Vozeal"|12.971599|77.594563
+"Trendy Lime"|37.77493|-122.419416
+"paststat"|12.971599|77.594563
+"Fandium"|41.878114|-87.629798
+"Usarium"|37.441883|-122.143019
+"LiTime Clocks"|40.680656|-73.474291
+"EV Rebel"|18.309764|-66.320023
+"OXFAZ Consulting "|45.42153|-75.697193
+"DBC Enterprise"|43.965389|-70.822654
+"HIGH MOBILITY"|52.520007|13.404954
+"Arderoy"|40.712784|-74.005941
+"Goingtalk"|42.878213|-8.544844
+"Bolster"|40.712784|-74.005941
+"NoveltyLab"|37.36883|-122.03635
+"FunFan "|25.76168|-80.19179
+"AllMyTrips"|39.469908|-0.376288
+"Suvola"|30.267153|-97.743061
+"SALEAD"|32.0853|34.781768
+"MRV-Game"|55.755826|37.6173
+"Supply Depot 2 Solutions"|27.950575|-82.457178
+"Stashers and Cachers"|35.595058|-82.551487
+"Ivylla"|37.441883|-122.143019
+"EnFind"|37.386052|-122.083851
+"PERFECT FORM"|40.712784|-74.005941
+"Synobit Solutions Private"|18.52043|73.856744
+"ChefKey"|42.652579|-73.756232
+"Tibolnet Global Resources"|6.524379|3.379206
+"preferling"|47.60621|-122.332071
+"Metasip"|42.045072|-87.687697
+"LyfeLog"|21.1458|79.088155
+"luxOrganix"|25.790654|-80.130045
+"Meal Planner Pro"|53.544389|-113.490927
+"Earth Health & Sensibility "|51.507351|-0.127758
+"UNBOUND"|37.77493|-122.419416
+"AutoFileMove"|26.820553|30.802498
+"Control My ADHD"|38.040584|-84.503716
+"Indie on Air!"|37.971559|-87.57109
+"5 O'Clock Brewing Company"|33.748995|-84.387982
+"ZigTraka Solutions"|18.52043|73.856744
+"Tried & True Tutoring"|34.052234|-118.243685
+"eyetok"|41.385064|2.173403
+"ClassFAQs"|37.338208|-121.886329
+"The Vocal Company"|43.16103|-77.610922
+"Click Quote Save"|25.76168|-80.19179
+"Estella Grace Home Brand"|34.052234|-118.243685
+"QTECT"|38.907192|-77.036871
+"Teachlr"|10.480594|-66.903606
+"Beruby"|40.416775|-3.70379
+"Atmosphere Group"|34.180839|-118.308966
+"Do.Docs"|55.755826|37.6173
+"Filmkings "|33.748995|-84.387982
+"Salt to Taste"|40.712784|-74.005941
+"Timedesk"|50.4501|30.5234
+"Joberate - Predictive Analytics for HR"|40.712784|-74.005941
+"Avionerd"|45.465422|9.185924
+"Siempre Bella Boutique"|34.536218|-117.292764
+"ScreenPay"|40.712784|-74.005941
+"Stealth Reality TV Series"|37.09024|-95.712891
+"PlenSat"|33.426973|-117.611992
+"Bustr"|40.712784|-74.005941
+"White Olive Sdn. Bhd."|3.139003|101.686855
+"Replicat"|19.432608|-99.133208
+"BrandGuard Software"|32.776664|-96.796988
+"Sippify"|37.338208|-121.886329
+"iosoftware"|43.21405|27.914733
+"Listly"|37.77493|-122.419416
+"Venture Glass"|35.77959|-78.638179
+"Cyber Gifts"|55.755826|37.6173
+"Zenith-Mart"|40.712784|-74.005941
+"First Warning Systems"|39.529633|-119.813803
+"Zurp"|20.593684|78.96288
+"Moodru"|37.441883|-122.143019
+"A.D. Smitherman & Company"|43.653226|-79.383184
+"thinkplay"|40.712784|-74.005941
+"Sun Sizzling Services"|18.335765|-64.896335
+"LocalView"|38.252665|-85.758456
+"BoothPass"|43.464258|-80.52041
+"BOOTLEG MARKET"|30.267153|-97.743061
+"Pluso"|55.755826|37.6173
+"Fantrotter"|40.712784|-74.005941
+"Blinc"|51.507351|-0.127758
+"Live Graffiti"|37.77493|-122.419416
+"enventure"|29.760427|-95.369803
+"audience.io"|40.712784|-74.005941
+"Novorelic"|28.083627|-80.608109
+"CarePlanners"|40.712784|-74.005941
+"PriceSpot"|36.169941|-115.13983
+"Techfoo"|40.712784|-74.005941
+"tweetTV"|30.267153|-97.743061
+"100state"|43.073052|-89.40123
+"Hillvalley Way"|33.748995|-84.387982
+"Jared's Research"|36.169941|-115.13983
+"SplitMyTaxi"|42.360083|-71.05888
+"ClientPlaza"|51.048615|-114.070846
+"Evacua"|39.165325|-86.526386
+"Notefuly"|40.712784|-74.005941
+"Star Of David Arms"|41.600545|-93.609106
+"GlassUp"|44.647128|10.925227
+"Wakeupzzz"|56.296504|43.936059
+"iloggo"|54.525961|15.255119
+"Bulkhead Brewing Company"|39.953736|-74.197946
+"Tamion"|41.66121|-72.779542
+"N.I.C.E. COLLECTIVE"|37.77493|-122.419416
+"HEVO Power"|40.712784|-74.005941
+"Ventures Club"|48.708048|44.513303
+"Emgage"|34.147785|-118.144516
+"Happy Retailer"|37.379663|-122.137464
+"Synosure Games"|34.052234|-118.243685
+"Body Details"|25.76168|-80.19179
+"iDEAXiS"|38.907192|-77.036871
+"Listiamo"|41.385064|2.173403
+"Export Now"|41.081445|-81.519005
+"soundsLARGE"|43.653226|-79.383184
+"BiG, Believe in God"|39.739236|-104.990251
+"Instamour"|39.952584|-75.165222
+"Bizlifter"|34.052234|-118.243685
+"WhyAsk.Us?"|37.77493|-122.419416
+"Estateya"|32.0853|34.781768
+"Qodevault by Qode Media"|43.653226|-79.383184
+"AKBD- Affordable Kitchens & Bath Design"|40.712784|-74.005941
+"DarkStone Games"|53.90454|27.561524
+"itdoes"|26.142036|-81.79481
+"Nomad Magazine"|40.712784|-74.005941
+"Chic Sugars"|40.712784|-74.005941
+"School of Wash"|31.578507|-84.155741
+"Prisync"|41.008238|28.978359
+"Mobile Experience "|47.482878|-122.217066
+"Absly"|27.751828|-82.626734
+"Rawbots"|13.586856|-88.7494
+"Bookmarc"|-33.867487|151.20699
+"maperia"|54.352025|18.646638
+"IMAGINIX GAMES"|43.653226|-79.383184
+"The Auto Vault Miami"|25.76168|-80.19179
+"Gameleon"|42.697708|23.321868
+"ConnectedtoGo"|54.525961|15.255119
+"ProfitBooks"|18.52043|73.856744
+"TiviClick"|32.0853|34.781768
+"QIITO"|1.352083|103.819836
+"AsktheJudge.info"|33.448377|-112.074037
+"Artizens"|39.952584|-75.165222
+"Natural Urban Gardens"|34.052234|-118.243685
+"GoChat"|40.712784|-74.005941
+"Collabra"|38.252665|-85.758456
+"KidKlass"|40.712784|-74.005941
+"Apps4Pro"|47.394144|0.68484
+"BullSONIC"|42.697708|23.321868
+"LiveDuel.com"|51.896892|-8.486316
+"A View From My Seat"|39.952584|-75.165222
+"EV Anywhere"|42.331427|-83.045754
+"BowFix"|41.878114|-87.629798
+"INF Robotics "|38.846224|-77.306373
+"WeedWall"|34.052234|-118.243685
+"SeeJay"|41.902784|12.496366
+"Bertie Richards"|51.507351|-0.127758
+"Exicon"|22.396428|114.109497
+"Noa Systems "|31.768319|35.21371
+"Clinata"|32.776664|-96.796988
+"Wild Wild East"|27.664827|-81.515754
+"Jell Networks"|37.804364|-122.271114
+"TechPay Mobile Payment Systems"|35.77959|-78.638179
+"Extreme Seo Internet Solutions"|7.873054|80.771797
+"Inaika"|42.878213|-8.544844
+"DreamSquare"|37.338208|-121.886329
+"LinePeek"|37.804364|-122.271114
+"CSRware"|37.77493|-122.419416
+"FITRAX"|42.479262|-71.152276
+"H2O"|40.712784|-74.005941
+"J & M Security Solutions"|35.77959|-78.638179
+"Social Rebate "|33.884736|-118.410909
+"The Craviator "|32.715738|-117.161084
+"Inpakt"|38.722252|-9.139337
+"Film This"|34.019454|-118.491191
+"CloudMedia"|33.985047|-118.469483
+"The Springs"|34.052234|-118.243685
+"Uruut"|33.748995|-84.387982
+"BomBoard"|42.83362|-88.732327
+"RestaurantsNg"|9.081999|8.675277
+"Sonas Denim"|34.052234|-118.243685
+"SportCentral"|49.738431|13.373637
+"Fainder"|42.878213|-8.544844
+"7even Dynamics"|37.441883|-122.143019
+"Indulgery"|41.878114|-87.629798
+"SWAP.RS"|40.712784|-74.005941
+"Treedom"|43.76956|11.255814
+"Sivarit"|40.416775|-3.70379
+"Personal Neuro"|37.77493|-122.419416
+"SHOOTRAC"|27.950575|-82.457178
+"Thankster"|40.712784|-74.005941
+"Novi"|37.57787|-122.34809
+"VisioTech Solutions"|29.395722|71.683333
+"GCP Solar"|22.396428|114.109497
+"Date Dog Lovers"|34.052234|-118.243685
+"Cacho.la"|-23.55052|-46.633309
+"Microlaunchers"|36.169941|-115.13983
+"B FROG"|35.125801|-117.985904
+"Zuldi"|36.169941|-115.13983
+"music selector"|48.856614|2.352222
+"Nextlanding"|40.712784|-74.005941
+"Store-n-Door"|42.687532|-83.234103
+"XY Security"|12.971599|77.594563
+"Posteny"|30.226595|-93.217376
+"hearo.fm"|37.386052|-122.083851
+"Boys Before Friends"|34.052234|-118.243685
+"Miiix"|27.751828|-82.626734
+"Amplifr"|55.755826|37.6173
+"Mogul Launcher"|33.87036|-117.924297
+"Task Tigers"|51.454513|-2.58791
+"Searchanise"|54.31816|48.383791
+"NuSomnea"|39.070388|-76.545241
+"I Heart Garments"|39.961176|-82.998794
+"Adam & Luna"|32.776664|-96.796988
+"FileString"|37.77493|-122.419416
+"Casiano World Class Guitars"|27.530567|-99.480324
+"Instant Autographs"|43.653226|-79.383184
+"Notice Kiosk"|40.712784|-74.005941
+"Go-Go Dog Pals"|32.715738|-117.161084
+"oogno"|43.653226|-79.383184
+"Sunible"|37.804364|-122.271114
+"iJar"|40.760779|-111.891047
+"Wisely.TV"|12.971599|77.594563
+"Stacked Labs"|41.681994|-85.976667
+"Stall Talk"|35.960638|-83.920739
+"Texas FUEL - ABA"|29.424122|-98.493628
+"SetPay"|42.878213|-8.544844
+"Administrative Software Applications"|37.36883|-122.03635
+"Loveopolis"|44.475883|-73.212072
+"OneLobby"|56.130366|-106.346771
+"Commercialization Reactor"|56.949649|24.105186
+"Noivion"|45.89096|11.04014
+"Big2 Game"|1.352083|103.819836
+"Sportifiq"|46.056947|14.505751
+"RapidEngage"|32.715738|-117.161084
+"Academe (Acade.me)"|26.368306|-80.128932
+"Shopnix"|12.971599|77.594563
+"Physician Relocation Specialists"|45.523062|-122.676482
+"Meople.Net"|37.386052|-122.083851
+"Friendly Songs"|4.570868|-74.297333
+"VidSocially"|33.683947|-117.794694
+"MEW Productions"|51.507351|-0.127758
+"Virtual Agora"|41.878114|-87.629798
+"Spectrul"|-33.867487|151.20699
+"ZipCircle "|12.971599|77.594563
+"Kingston 8 Cyber and Game Center"|46.003823|-112.534778
+"Medlio"|35.994033|-78.898619
+"Keshiha Services Private"|28.613939|77.209021
+"Greensations"|42.814243|-73.939569
+"Shopick"|43.653226|-79.383184
+"GoXercise"|41.88003|-88.007843
+"Be Bold & Beautiful Supply Store"|33.520661|-86.80249
+"Red Label Accessories/Rawlings Licensee"|38.663108|-90.577067
+"StylingOn"|40.486216|-74.451819
+"GalaDo"|41.878114|-87.629798
+"Western Harmonics"|29.951066|-90.071532
+"Majestic Endeavor Group"|34.07362|-118.400356
+"PicLits.com"|44.068202|-114.742041
+"UmixTV"|37.77493|-122.419416
+"NextRX"|34.052234|-118.243685
+"Key to the Street"|30.267153|-97.743061
+"In Your Corner"|40.712784|-74.005941
+"City Soles"|41.878114|-87.629798
+"Volumeet"|26.142036|-81.79481
+"EventSlice"|30.267153|-97.743061
+"iloho"|12.971599|77.594563
+"vidbid"|40.712784|-74.005941
+"WishCast"|37.77493|-122.419416
+"Find Wellness"|45.523062|-122.676482
+"Jobhuk"|30.267153|-97.743061
+"Lumos Learning"|40.357298|-74.667223
+"SportsCstr"|47.60621|-122.332071
+"Hypecal"|41.385064|2.173403
+"Infinitios"|51.507351|-0.127758
+"theStudentranking"|50.775346|6.083887
+"Senndex"|33.748995|-84.387982
+"SnagMobile"|42.652579|-73.756232
+"inGroove (Formerly Darwin360)"|40.760779|-111.891047
+"QuickSolar"|29.951066|-90.071532
+"Bizantu"|39.739236|-104.990251
+"VoiceClub"|-34.603684|-58.381559
+"ConnectTalent "|-33.867487|151.20699
+"Wordinaire"|34.052234|-118.243685
+"Jesse J Wilkerson & Associates"|34.503439|-82.650133
+"Chasm.io"|30.267153|-97.743061
+"Dave Arbuckle"|47.60621|-122.332071
+"SPEAKIPLAY SAS"|48.856614|2.352222
+"LPI"|28.538336|-81.379236
+"Diplomiya"|61.52401|105.318756
+"DigitalSorbet"|-33.867487|151.20699
+"Parent Child Interactive "|45.523062|-122.676482
+"Contractor Tools Online"|39.961176|-82.998794
+"AirPersons"|40.416775|-3.70379
+"pikSpeak"|12.971599|77.594563
+"AirPlusPlus"|44.426767|26.102538
+"Pixcited"|34.052234|-118.243685
+"Mobex"|27.950575|-82.457178
+"Griot Enterprises"|41.878114|-87.629798
+"10Gen Jobs"|28.613939|77.209021
+"DreamsApp"|-19.916681|-43.934493
+"Exiles "|37.77493|-122.419416
+"Lemonade Stand"|41.878114|-87.629798
+"Pub Anywhere"|53.349805|-6.26031
+"Toco Pedicabs"|27.950575|-82.457178
+"Open Mic Voices"|41.710654|-72.208134
+"SnagPad"|41.878114|-87.629798
+"CheffedUp"|30.267153|-97.743061
+"Event Viewpoint"|34.959208|-116.419389
+"Linear Labs "|32.755488|-97.330766
+"Hotlease"|30.267153|-97.743061
+"Pam MacDs Gluten Free Markets"|34.180839|-118.308966
+"Confusing Homework "|40.712784|-74.005941
+"ROSTR"|30.332184|-81.655651
+"World Broadband Foundation"|43.653226|-79.383184
+"Elioplus"|37.983917|23.72936
+"Koolyoom"|48.856614|2.352222
+"Our Home Transitional"|43.012527|-83.687456
+"Sollywood TV"|41.878114|-87.629798
+"sleek-geek"|37.804364|-122.271114
+"PubShifter"|33.835293|-117.914504
+"Tutors Nirvana"|48.428421|-123.365644
+"Poa Em Transito"|-30.034647|-51.217658
+"Value This Now"|37.910078|-122.065182
+"Sherman Latimer"|28.538336|-81.379236
+"Dibs"|35.994033|-78.898619
+"HealthPrize Technologies"|41.117744|-73.408158
+"Entwi.net"|37.207906|-4.657306
+"UBDoc"|40.625932|-75.370458
+"Telix Networks"|42.360083|-71.05888
+"RoomHunt"|37.77493|-122.419416
+"MyLifeLine Journal"|43.491651|-112.033965
+"Prediction Institute"|55.676097|12.568337
+"ArtGrove"|48.856614|2.352222
+"Inpris"|31.768319|35.21371
+"My Assistant"|32.715738|-117.161084
+"Fluid Management Systems"|38.040584|-84.503716
+"Molly's Milk Truck"|40.743991|-74.032363
+"MorningBet"|45.748872|21.208679
+"CorCardia Group"|44.977753|-93.265011
+"CardioCare. Heart Health Tech"|-14.235004|-51.92528
+"dineout"|28.613939|77.209021
+"Athlete.com"|40.646062|-111.497973
+"Generous"|45.523062|-122.676482
+"contradesk"|37.77493|-122.419416
+"MaistorPlus"|42.697708|23.321868
+"Exentriq1"|40.712784|-74.005941
+"ONECIX"|36.169941|-115.13983
+"AAMPP"|34.092809|-118.328661
+"FXQ Engineering Group"|41.485921|-73.050697
+"The Catering Brigade"|33.748995|-84.387982
+"Glance Metrics"|35.77959|-78.638179
+"issuehunter"|41.87194|12.56738
+"Nutrifresh Healthy Meal Home Delivery"|25.032969|121.565418
+"TheTakes.com"|55.755826|37.6173
+"zPerfect Gift"|40.760779|-111.891047
+"Immerse Digital"|51.507351|-0.127758
+"CityCirculator"|39.290385|-76.612189
+"CarsVibe"|42.697708|23.321868
+"Kwello"|39.768403|-86.158068
+"Activism"|51.507351|-0.127758
+"MySMSBasket"|30.733315|76.779418
+"Stupil"|38.907192|-77.036871
+"Pickree"|37.77493|-122.419416
+"PaletteApp"|41.878114|-87.629798
+"Sugar Knife "|37.804364|-122.271114
+"Skwibl"|50.4501|30.5234
+"burufly"|-0.789275|113.921327
+"MATCHPOINT"|34.052234|-118.243685
+"DomainPaid"|40.712784|-74.005941
+"TiQiT"|37.804364|-122.271114
+"tagMap"|37.507159|-122.260522
+"Trip Tern"|28.613939|77.209021
+"De Vanity Box"|36.169941|-115.13983
+"Getsy"|55.755826|37.6173
+"Swably"|37.77493|-122.419416
+"Green Design"|44.786568|20.448922
+"AppXen"|34.052234|-118.243685
+"Where's the Run!?!?!"|38.788106|-90.497436
+"Minute List It"|41.878114|-87.629798
+"ClikPals"|-1.292066|36.821946
+"Thriver"|37.77493|-122.419416
+"Weekend Sherpa"|37.77493|-122.419416
+"Qliz"|45.42153|-75.697193
+"SEG"|36.169941|-115.13983
+"Publiconn"|45.815011|15.981919
+"AgentsBids"|30.733315|76.779418
+"SmartStori Communications"|33.748995|-84.387982
+"kwiKBio"|42.360083|-71.05888
+"Ulocs"|55.70466|13.191007
+"FanTogether"|44.564566|-123.262043
+"Newquire"|33.683947|-117.794694
+"Urban360"|19.432608|-99.133208
+"ENEEDO"|34.052234|-118.243685
+"Spout Software"|30.267153|-97.743061
+"Infinite Monkeys / AppMakr"|40.712784|-74.005941
+"4TheLocals"|36.169941|-115.13983
+"Es Noticia!"|-34.603684|-58.381559
+"Viapool"|-34.603684|-58.381559
+"Vevue "|36.975228|-121.953293
+"RentalCompare"|34.052234|-118.243685
+"LUKnFEED"|40.712784|-74.005941
+"PositionClick"|42.360083|-71.05888
+"Lingerie Planet"|42.53869|-71.046564
+"Beer Bites"|43.071755|-70.762553
+"Horoscorpio"|-28.01726|153.425699
+"CosmoMD"|33.641132|-117.918669
+"YALLDO"|37.507159|-122.260522
+"MobileMediaOne"|34.052234|-118.243685
+"Conference Hound"|37.77493|-122.419416
+"EquityLancer"|37.387474|-122.057543
+"Styleocrat"|40.712784|-74.005941
+"Trackerbird Software Analytics"|35.937496|14.375416
+"LeasePass"|40.712784|-74.005941
+"FWYINE MAGAZINE"|51.507351|-0.127758
+"Shobot"|34.052234|-118.243685
+"StepHunter"|54.31816|48.383791
+"Realaxy"|42.708678|19.37439
+"NanoMed Targeting Systems"|35.46756|-97.516428
+"Roomlinksaas"|13.756331|100.501765
+"Ateamo"|30.267153|-97.743061
+"Spurri"|40.712784|-74.005941
+"ReBounty"|40.712784|-74.005941
+"NonProfitEasy"|38.339637|-122.701098
+"Plasmacat Development Venture"|40.693649|-89.588986
+"Washington Roberts"|40.712784|-74.005941
+"Thyrst"|42.360083|-71.05888
+"IUN"|40.712784|-74.005941
+"GoGoHealth"|37.77493|-122.419416
+"Listnerd"|37.441883|-122.143019
+"Appetite+"|40.712784|-74.005941
+"Fosmo Med"|37.562992|-122.325525
+"Extremal Film Partners"|34.052234|-118.243685
+"Medieval World International"|40.58526|-105.084423
+"Rgrub"|41.345589|-88.842577
+"fitboo"|40.712784|-74.005941
+"decidequick"|12.971599|77.594563
+"yoursportscast"|32.776664|-96.796988
+"ChangeIt®"|43.464258|-80.52041
+"FARJHO"|33.61891|-117.928947
+"Freddiction"|34.052234|-118.243685
+"Chiching"|37.77493|-122.419416
+"SandBox (Let's Play)"|34.052234|-118.243685
+"Social27"|47.60621|-122.332071
+"MobileRQ"|45.523062|-122.676482
+"Brand(ark)"|45.638728|-122.661486
+"Avatar Snowskates"|53.726668|-127.647621
+"Real Estate Financial Modeling (REFM)"|40.712784|-74.005941
+"Pocket Knife Software"|30.505198|-97.820289
+"MultiDine, Touch. Taste. Discover."|32.0853|34.781768
+"TaxiMonger"|3.139003|101.686855
+"Azigo"|42.360083|-71.05888
+"Impulcity"|39.103118|-84.51202
+"Vital Labs"|12.971599|77.594563
+"WOISIO"|41.008238|28.978359
+"TravelSite.com"|37.77493|-122.419416
+"Niqotin"|13.08268|80.270718
+"Mate of Mine"|-33.867487|151.20699
+"GigDog"|38.029306|-78.476678
+"Qnova Health "|33.748995|-84.387982
+"Teachmeo"|34.052234|-118.243685
+"Ekata Systems"|37.36883|-122.03635
+"PICTELLER"|34.052234|-118.243685
+"ShaadiGenie"|37.77493|-122.419416
+"Yokal Sports"|34.052234|-118.243685
+"Traders Circle"|40.712784|-74.005941
+"Apptimate"|55.70466|13.191007
+"Nomadintel (previously Startup Nomads)"|52.520007|13.404954
+"CloudFunded"|37.77493|-122.419416
+"The Porter Group"|40.712784|-74.005941
+"Kermdinger Studios"|37.485215|-122.236355
+"Pelletco"|44.883113|-68.671941
+"24DNA "|38.581572|-121.4944
+"RoomMatch"|30.267153|-97.743061
+"Haberdashion"|35.282752|-120.659616
+"Splitbin "|40.712784|-74.005941
+"GlobalNiche"|37.77493|-122.419416
+"I Heart Engineering"|40.712784|-74.005941
+"PO-MO"|49.899754|-97.137494
+"Westkom"|56.949649|24.105186
+"TRACT"|37.77493|-122.419416
+"Layer Three Media"|18.52043|73.856744
+"Daily Delivery"|45.638728|-122.661486
+"Accusilicon"|37.354108|-121.955236
+"Edmonton Films Venture"|53.544389|-113.490927
+"Transfer1.net"|59.436961|24.753575
+"ChiaraMail"|37.871593|-122.272747
+"LibriLoop"|40.417287|-82.907123
+"Wonderloop"|37.77493|-122.419416
+"BidsList"|32.715738|-117.161084
+"PolitiCLEAR"|40.712784|-74.005941
+"Pixifood"|31.230416|121.473701
+"set a time to talk"|34.052234|-118.243685
+"BarBlackBook "|34.052234|-118.243685
+"Dextr"|-27.471011|153.023449
+"CareLinx"|37.77493|-122.419416
+"Tribewanted"|43.305573|12.327868
+"iGenApps"|18.466334|-66.105722
+"The Expert Networks"|37.441883|-122.143019
+"Ducotrax"|33.448377|-112.074037
+"NovusRx"|27.950575|-82.457178
+"865art'ist"|40.712784|-74.005941
+"AutoConnected"|37.338208|-121.886329
+"Two Happy Homes"|41.763711|-72.685093
+"Rock Your Block"|37.77493|-122.419416
+"Texxi"|53.408371|-2.991573
+"Ameristream"|40.825656|-73.698186
+"Yumber"|32.715738|-117.161084
+"Frostbox"|53.381129|-1.470085
+"Never Work"|40.712784|-74.005941
+"SME"|40.712784|-74.005941
+"Primpt-"|37.77493|-122.419416
+"CipherGraph Networks"|37.338208|-121.886329
+"MonPets"|31.046051|34.851612
+"MatchUpBox"|42.360083|-71.05888
+"Storyboarder"|30.267153|-97.743061
+"Playworld Pictures "|34.092809|-118.328661
+"Hot Reckers Land Holdings"|53.544389|-113.490927
+"Hot Reckers TV/WEB Series"|53.544389|-113.490927
+"SAEX"|37.36883|-122.03635
+"On Campus Sports Network"|39.103118|-84.51202
+"Oneloudr"|36.162664|-86.781602
+"Bloonder"|40.416775|-3.70379
+"Lifespan® Seminar"|34.052234|-118.243685
+"ZOONY"|-14.235004|-51.92528
+"RocketStart"|50.4501|30.5234
+"OutTrippin"|37.77493|-122.419416
+"BestBuzz"|32.776664|-96.796988
+"SpeechTrans"|50.872559|-1.5768
+"SmartParents"|42.360083|-71.05888
+"SupportLocal"|39.739236|-104.990251
+"WizoBox"|41.385064|2.173403
+"AnyDish"|47.60621|-122.332071
+"Vponz"|9.101179|-79.402864
+"andara"|37.77493|-122.419416
+"Rental Kharma"|39.739236|-104.990251
+"Alugar Chacaras"|-23.55052|-46.633309
+"NYFP"|40.712784|-74.005941
+"iFind Patform"|-14.235004|-51.92528
+"Jipio"|51.92442|4.477733
+"SafeGuard Guaranty"|35.77959|-78.638179
+"HomeZada"|38.677959|-121.176058
+"TVonFly"|51.507351|-0.127758
+"Competech SmartCard Solutions"|40.892877|-73.972638
+"Hustis Electric Car "|34.052234|-118.243685
+"VWC - Cocoon & IceBrowser"|34.420831|-119.69819
+"Soni Tools Private"|51.507351|-0.127758
+"Last 2 Left"|39.952584|-75.165222
+"ReferralBonus"|42.373616|-71.109733
+"Koegler Electronics"|25.032969|121.565418
+"Polymath Foundation"|41.49932|-81.694361
+"Connecticut Cookie Company"|41.186548|-73.195177
+"TRAIL"|37.77493|-122.419416
+"Hagglys"|40.712784|-74.005941
+"Widbook"|-23.55052|-46.633309
+"Avuá Cachaça"|40.712784|-74.005941
+"CloudeAssurance"|37.09024|-95.712891
+"Poikos"|52.370216|4.895168
+"TGTHR"|51.507351|-0.127758
+"Tomorrowish"|42.360083|-71.05888
+"CommutePays"|39.739236|-104.990251
+"HuntSync"|32.776664|-96.796988
+"Subscript.ion"|4.570868|-74.297333
+"Promoxity"|40.712784|-74.005941
+"MMI Broadcasting"|40.712784|-74.005941
+"Zodio"|13.756331|100.501765
+"MeditationAnywhere"|38.907192|-77.036871
+"Belkasoft"|55.598647|37.351149
+"Rodrick D. Colbert Group "|27.950575|-82.457178
+"Sii TV"|40.712784|-74.005941
+"Firefly Rewards"|33.717471|-117.831143
+"N4MD"|33.748995|-84.387982
+"EnergyLayer"|48.379433|31.16558
+"Johnny Neon - American Dream I-II-III"|27.336435|-82.530653
+"Goblinworks"|47.60621|-122.332071
+"Bmark"|32.0853|34.781768
+"XOO Network"|45.638728|-122.661486
+"LIFEPROJECT METHOD"|-34.603684|-58.381559
+"Follr"|37.77493|-122.419416
+"KNO Clothing"|39.952584|-75.165222
+"WorderLang"|31.046051|34.851612
+"Q-Track"|34.730369|-86.586104
+"Facet Decision Systems"|54.525961|-105.255119
+"Campus Shift"|38.627003|-90.199404
+"EmergenSee"|37.77493|-122.419416
+"MLAKEDUSOLN ELEARNOVATE"|38.544907|-121.740517
+"SME DIGITAL"|10.691803|-61.222503
+"Adventure Mob"|32.0853|34.781768
+"PulpWorks"|37.973535|-122.531087
+"Project Zebra"|40.014986|-105.270546
+"iRapidConsult"|51.048615|-114.070846
+"Blueseed"|13.075964|80.167317
+"Bon'App"|42.360083|-71.05888
+"TerraChaos Studios"|41.878114|-87.629798
+"PURE SWISS mineral water"|37.77493|-122.419416
+"TerraPan Labs"|32.715738|-117.161084
+"Karrot"|41.878114|-87.629798
+"Grabio"|41.878114|-87.629798
+"Healthcareutility"|20.593684|78.96288
+"Rately"|33.748995|-84.387982
+"10 Fold Interactive"|30.332184|-81.655651
+"LF Tech"|30.267153|-97.743061
+"Shag"|27.751828|-82.626734
+"CloudInfi"|12.971599|77.594563
+"Ekwity"|37.77493|-122.419416
+"SalesBump"|34.052234|-118.243685
+"Wê"|0.18636|6.613081
+"GoLista"|37.09024|-95.712891
+"Achraf52"|31.791702|-7.09262
+"Toogethr"|52.370216|4.895168
+"RealtyBaron"|32.941236|-97.134178
+"TYSON"|-25.274398|133.775136
+"StoppedAt"|37.77493|-122.419416
+"RHT SpectraSafe"|37.338208|-121.886329
+"CloudPrime QuickDrop™ "|37.77493|-122.419416
+"MarkTheGlobe - Global SEO Technology"|47.80949|13.05501
+"Everfeel"|48.856614|2.352222
+"TotalHousehold"|41.394817|-73.454011
+"Golden Seeds Game Company"|34.052234|-118.243685
+"LCD Dreams"|37.338208|-121.886329
+"OrderStorm"|40.014986|-105.270546
+"AndroidPhotos.net"|44.763057|-85.620632
+"Viser Business Tools"|40.417287|-82.907123
+"Sweetastic"|37.540725|-77.436048
+"Philanthropist"|38.581572|-121.4944
+"Blinzy Studios"|41.385064|2.173403
+"Bioquark"|39.952584|-75.165222
+"Invite2Watch®"|34.052234|-118.243685
+"Crowd Seats"|34.052234|-118.243685
+"The OmniPad Company"|37.910078|-122.065182
+"Bodycultures"|23.634501|-102.552784
+"JobPage"|51.507351|-0.127758
+"Liberty Hair Health and Beauty"|51.507351|-0.127758
+"Artwise"|33.77005|-118.193739
+"ONETRUEGEM Photovoltaics (OTGP)"|38.907192|-77.036871
+"Confidential"|1.352083|103.819836
+"Pingwyn"|42.360083|-71.05888
+"Magister Technologies"|32.715738|-117.161084
+"Mednyma"|39.327962|-120.183253
+"Ganttic"|54.525961|15.255119
+"Xenao Games"|37.09024|-95.712891
+"Social Pulse"|20.593684|78.96288
+"MobiDigger"|37.386052|-122.083851
+"Jackson Electronics"|30.267153|-97.743061
+"LocalDipity"|33.748995|-84.387982
+"Prime Genomics"|37.77493|-122.419416
+"OnStage DC"|38.907192|-77.036871
+"Archiosoft"|29.760427|-95.369803
+"Portable Pixels"|51.507351|-0.127758
+"Synapse"|32.776664|-96.796988
+"Munch On Me"|37.77493|-122.419416
+"A Greater Town"|40.825901|-74.209005
+"Hip Chicas"|40.712784|-74.005941
+"Charitable Checkout"|40.712784|-74.005941
+"

@@ -1,0 +1,13 @@
+RoleId|Name
+"1"|acquirer
+"2"|advisor
+"3"|attorney
+"4"|board_member
+"5"|current_investor
+"6"|customer
+"7"|employee
+"8"|founder
+"9"|incubator
+"10"|mentor
+"11"|partner
+"12"|past_investor

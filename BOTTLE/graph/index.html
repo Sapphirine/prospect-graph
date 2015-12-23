@@ -1,0 +1,532 @@
+<!DOCTYPE html>
+<!-- Generated with Popoto.js Configurator 1.0 and Customized by Sam Guleff -->
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html" charset="UTF-8">
+    <title>Popoto Search</title>
+	<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+<script src='https://api.mapbox.com/mapbox.js/v2.2.3/mapbox.js'></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/1.0.2/Chart.min.js"></script>
+<link href='https://api.mapbox.com/mapbox.js/v2.2.3/mapbox.css' rel='stylesheet' />
+<style>
+  body { margin:0; padding:0; }
+  #map { position:absolute; top:0; bottom:0; width:100%; }
+  
+}
+</style>
+    <link rel="stylesheet" href="css/popoto.min.css">
+</head>
+<body class="ppt-body">
+<header class="ppt-header">
+</header>
+<section class="ppt-section-main">
+
+    <div class="ppt-container-graph">
+        <nav id="popoto-taxonomy" class="ppt-taxo-nav">
+            <!-- Label/taxonomy filter will be generated here -->
+        </nav>
+        <div id="popoto-graph" class="ppt-div-graph">
+            <!-- Graph will be generated here -->
+        </div>
+    </div>
+    <div id="popoto-query" class="ppt-container-query">
+        <!-- Query viewer will be generated here -->
+    </div>
+    <div id="popoto-cypher" class="ppt-container-cypher">
+        <!-- Cypher query viewer will be generated here -->
+    </div>
+    <div class="ppt-section-header">
+        <!-- The total results count is updated with a listener defined in script -->
+        RESULTS <span id="result-total-count" class="ppt-count"></span>
+    </div>
+    <div id="popoto-results" class="ppt-container-results" >
+        <!-- Results will be generated here -->
+    </div>
+	<div id="myAnalytics">
+		<div id="myMap" class="ppt-myMap" width="60%">
+			<!-- My Map will go here -->
+		</div>
+		<div class="ppt-chartWrapper"width="40%">
+			<canvas id="myChart"  class="ppt-MYChart">
+				<!-- My Chart will go here -->
+			</canvas>
+		</div>
+	</div>
+</section>
+
+<script src="js/jquery-2.1.0.min.js" charset="utf-8"></script>
+<script src="js/d3.v3.min.js" charset="utf-8"></script>
+<script src="js/popoto.min.js" charset="utf-8"></script>
+<script>
+
+//Globals
+
+var ctx;
+var myBarChart;
+var MyPins= {}; 
+
+// Mapping Script
+L.mapbox.accessToken = 'pk.eyJ1Ijoic2d1bGVmZiIsImEiOiJjaWk2dXB4OGIwMXZmdG9rZnFndzdheWR1In0.QSvi7ri0fi9Mb4t4s2YJoQ';
+//var map = L.mapbox.map('myMap', 'mapbox.streets')
+//	.setView([38.91338, -77.03236], 16);
+
+var geocoder = L.mapbox.geocoder('mapbox.places'),
+    map = L.mapbox.map('myMap', 'examples.map-h67hf2ic');
+	
+	
+
+// URL used to access Neo4j REST API to execute queries.
+//popoto.rest.CYPHER_URL = "http://localhost:7474/db/data/transaction/commit";
+//popoto.rest.AUTHORIZATION = "Basic bmVvNGo6Rmlyc2EyMjYs";
+popoto.rest.CYPHER_URL = "http://104.43.162.60:7474/db/data/transaction/commit";
+popoto.rest.AUTHORIZATION = "Basic bmVvNGo6bmVvNGo=";
+LastNodeProperty = "Something"
+popoto.provider.nodeProviders = {
+    "Person":{
+		"children": ["Role", "FollowerCount", "Interest", "School", "Company"],
+        returnAttributes:["followerCount", "personID", "Name", "Bio", "LAT", "LON"],
+        constraintAttribute:"personID",
+		"getDisplayType": function (node) {
+			if (node.type === popoto.graph.node.NodeTypes.ROOT) {
+			   return popoto.provider.NodeDisplayTypes.IMAGE;
+			   } else {
+					return popoto.provider.NodeDisplayTypes.TEXT;
+			   }           
+        },
+		getImagePath: function (node) {
+			if (node.type === popoto.graph.node.NodeTypes.VALUE) {
+				return node.attributes.logoURL;
+			} else {
+				if (node.value !== undefined) {
+					return "image/missing.png";
+				} else {
+					if (node.type === popoto.graph.node.NodeTypes.ROOT) {
+						return "image/employee.png";
+					} else {
+						if (node.count == 0) {
+							return "image/missing.png";
+						} else {
+							return "image/employee.png";
+						}
+					}
+				}
+			}
+		},
+        "getTextValue": function (node) {
+            var text;
+			
+            if (node.type === popoto.graph.node.NodeTypes.VALUE) {
+                text = "" + node.attributes["Name"];
+            } else {
+                if (node.value === undefined) {
+                    text = node.label;
+                } else {
+                    text = "" + node.value.attributes["Name"];
+                }
+            }
+            // Text is truncated to avoid node overflow
+            return text.substring(0, 12);
+        },
+		"getIsTextDisplayed": function (node) {
+                return true;
+            },
+
+    },
+	"Interest":{
+		parent: "Person",
+        returnAttributes:["interestType"],
+        constraintAttribute:"interestType",
+		getDisplayType: function (node) {
+			if (node.type === popoto.graph.node.NodeTypes.ROOT || node.type === popoto.graph.node.NodeTypes.CHOOSE) {
+			   return popoto.provider.NodeDisplayTypes.IMAGE;
+			   } else {
+					return popoto.provider.NodeDisplayTypes.IMAGE;
+			   }           
+        },
+		getImagePath: function (node) {
+			if (node.type === popoto.graph.node.NodeTypes.VALUE) {
+				if (node.attributes.logoURL === undefined){
+					return "image/Interest/" + node.attributes["interestType"] + ".png";
+				} else {
+					return node.attributes.logoURL;
+				}
+			
+			} else {
+				if (node.value !== undefined) {
+					return "image/Interest/" +  node.value.attributes.interestType + ".png"; //"image/missing.png";
+				} else {
+					if (node.type === popoto.graph.node.NodeTypes.ROOT) {
+						return "image/Thoughts.png";
+					} else {
+						if (node.count == 0) {
+							return "image/missing.png";
+						} else {
+							return "image/Thoughts.png";
+						}
+					}
+				}
+			}
+		},
+		"getTextValue": function (node) {
+            var text;
+			
+            if (node.type === popoto.graph.node.NodeTypes.VALUE) {
+                text = "" + node.attributes["interestType"];
+            } else {
+                if (node.value === undefined) {
+                    text = node.label;
+                } else {
+                    text = "" + node.value.attributes["interestType"];
+                }
+            }
+            // Text is truncated to avoid node overflow
+            return text.substring(0, 12);
+        },
+		
+    },
+    "Role":{
+		parent: "Person",
+        returnAttributes:["Name"],
+        constraintAttribute:"Name",
+		getDisplayType: function (node) {
+			if (node.type === popoto.graph.node.NodeTypes.ROOT || node.type === popoto.graph.node.NodeTypes.CHOOSE) {
+				if (node.value !== undefined){
+					return popoto.provider.NodeDisplayTypes.TEXT;
+				}  else {
+					return popoto.provider.NodeDisplayTypes.IMAGE;
+				}
+			   
+			   } else {
+					return popoto.provider.NodeDisplayTypes.TEXT;
+			   }           
+        },
+		getImagePath: function (node) {
+			if (node.type === popoto.graph.node.NodeTypes.VALUE) {
+				return node.attributes.logoURL;
+			} else {
+				if (node.value !== undefined) {
+					return "image/missing.png";
+				} else {
+					if (node.type === popoto.graph.node.NodeTypes.ROOT) {
+						return "image/roles.png";
+					} else {
+						if (node.count == 0) {
+							return "image/missing.png";
+						} else {
+							return "image/roles.png";
+						}
+					}
+				}
+			}
+		},
+		getTextValue: function (node) {
+            var text;
+			
+            if (node.type === popoto.graph.node.NodeTypes.VALUE) {
+                text = "" + node.attributes["Name"];
+            } else {
+                if (node.value === undefined) {
+                    text = node.label;
+                } else {
+                    text = "" + node.value.attributes["Name"];
+                }
+            }
+            // Text is truncated to avoid node overflow
+            return text.substring(0, 12);
+        },
+    },
+	"School":{
+		parent: "Person",
+        returnAttributes:["Name"],
+        constraintAttribute:"Name",
+		getDisplayType: function (node) {
+			if (node.type === popoto.graph.node.NodeTypes.ROOT || node.type === popoto.graph.node.NodeTypes.CHOOSE) {
+				if (node.value !== undefined){
+					return popoto.provider.NodeDisplayTypes.TEXT;
+				}  else {
+					return popoto.provider.NodeDisplayTypes.IMAGE;
+				}
+			   
+			   } else {
+					return popoto.provider.NodeDisplayTypes.TEXT;
+			   }           
+        },
+		getImagePath: function (node) {
+			if (node.type === popoto.graph.node.NodeTypes.VALUE) {
+				return node.attributes.logoURL;
+			} else {
+				if (node.value !== undefined) {
+					return "image/missing.png";
+				} else {
+					if (node.type === popoto.graph.node.NodeTypes.ROOT) {
+						return "image/school.png";
+					} else {
+						if (node.count == 0) {
+							return "image/missing.png";
+						} else {
+							return "image/school.png";
+						}
+					}
+				}
+			}
+		}
+    },
+    "Company":{
+		parent: "Person",
+		"children": ["RaisedFunds"],
+        returnAttributes:["companyID", "dataQuality", "companyURL", "highConcept", "logoURL", "preMoneyValuation", "raisedAmount", "twitterURL", "linkedinURL", "raisingAmount", "companySize", "thumbURL", "crunchbaseURL", "Name", "primaryLocation"],
+        constraintAttribute:"Name",
+		getDisplayType: function (node) {
+                return popoto.provider.NodeDisplayTypes.IMAGE;
+            },
+		getImagePath: function (node) {
+			if (node.type === popoto.graph.node.NodeTypes.VALUE) {
+				return node.attributes.logoURL;
+			} else {
+				if (node.value !== undefined) {
+					return  node.value.attributes.logoURL[0];
+				} else {
+					if (node.type === popoto.graph.node.NodeTypes.ROOT) {
+						return "image/company.png";
+					} else {
+						if (node.count == 0) {
+							return "image/missing.png";
+						} else {
+							return "image/company.png";
+						}
+					}
+				}
+			}
+		},
+
+
+    },
+    "FollowerCount":{
+		parent: "Person",
+        returnAttributes:["Name", "RoleId"],
+        constraintAttribute:"Name",
+		getDisplayType: function (node) {
+			if (node.type === popoto.graph.node.NodeTypes.ROOT || node.type === popoto.graph.node.NodeTypes.CHOOSE) {
+				if (node.value !== undefined){
+					return popoto.provider.NodeDisplayTypes.TEXT;
+				}  else {
+					return popoto.provider.NodeDisplayTypes.IMAGE;
+				}
+			   
+			   } else {
+					return popoto.provider.NodeDisplayTypes.TEXT;
+			   }           
+        },
+		getImagePath: function (node) {
+			if (node.type === popoto.graph.node.NodeTypes.VALUE) {
+				return node.attributes.logoURL;
+			} else {
+				if (node.value !== undefined) {
+					return "image/missing.png";
+				} else {
+					if (node.type === popoto.graph.node.NodeTypes.ROOT) {
+						return "image/followers.png";
+					} else {
+						if (node.count == 0) {
+							return "image/missing.png";
+						} else {
+							return "image/followers.png";
+						}
+					}
+				}
+			}
+		},
+		getTextValue: function (node) {
+            var text;
+			
+            if (node.type === popoto.graph.node.NodeTypes.VALUE) {
+                text = "" + node.attributes["Name"];
+            } else {
+                if (node.value === undefined) {
+                    text = node.label;
+                } else {
+                    text = "" + node.value.attributes["Name"];
+                }
+            }
+            // Text is truncated to avoid node overflow
+            return text.substring(0, 12);
+        },
+    },
+    "RaisedFunds":{
+		parent: "Company",
+        returnAttributes:["Name"],
+        constraintAttribute:"Name",
+				getDisplayType: function (node) {
+			if (node.type === popoto.graph.node.NodeTypes.ROOT || node.type === popoto.graph.node.NodeTypes.CHOOSE) {
+				if (node.value !== undefined){
+					return popoto.provider.NodeDisplayTypes.TEXT;
+				}  else {
+					return popoto.provider.NodeDisplayTypes.IMAGE;
+				}
+			   
+			   } else {
+					return popoto.provider.NodeDisplayTypes.TEXT;
+			   }           
+        },
+		getImagePath: function (node) {
+			if (node.type === popoto.graph.node.NodeTypes.VALUE) {
+				return node.attributes.logoURL;
+			} else {
+				if (node.value !== undefined) {
+					return "image/missing.png";
+				} else {
+					if (node.type === popoto.graph.node.NodeTypes.ROOT) {
+						return "image/raisedFunds.png";
+					} else {
+						if (node.count == 0) {
+							return "image/missing.png";
+						} else {
+							return "image/raisedFunds.png";
+						}
+					}
+				}
+			}
+		},
+		getTextValue: function (node) {
+            var text;
+			
+            if (node.type === popoto.graph.node.NodeTypes.VALUE) {
+                text = "" + node.attributes["Name"];
+            } else {
+                if (node.value === undefined) {
+                    text = node.label;
+                } else {
+                    text = "" + node.value.attributes["Name"];
+                }
+            }
+            // Text is truncated to avoid node overflow
+            return text.substring(0, 12);
+        }
+		
+    },
+};
+
+/**
+ * Add a listener on result received to update map.
+ */
+
+    popoto.result.onResultReceived(
+		function (resultObjects) {
+			//acccessKey = "pk.eyJ1Ijoic2d1bGVmZiIsImEiOiJjaWk2dXB4OGIwMXZmdG9rZnFndzdheWR1In0.QSvi7ri0fi9Mb4t4s2YJoQ"
+
+			//geocoder.query('Denver',DropPinOnMap)
+			map.remove()
+			map = L.mapbox.map('myMap', 'mapbox.streets');
+			
+			
+			labelarray = []
+			dataarray = [] 
+			// display all values
+			var arrayLength = resultObjects.length;
+			for (var i = 0; i < arrayLength; i++) {
+				if (!isNaN(parseFloat(resultObjects[i].attributes.LAT)) && !isNaN(parseFloat(resultObjects[i].attributes.LON))){
+					 //data for bar graph
+					 labelarray.push(resultObjects[i].attributes.Name)
+					 dataarray.push(resultObjects[i].attributes.followerCount)
+					 var apin = L.marker([
+							  parseFloat(resultObjects[i].attributes.LAT),
+							  parseFloat(resultObjects[i].attributes.LON)
+							], {
+						icon: L.mapbox.marker.icon({
+							'marker-size': 'large',
+
+							'marker-color': '#fa0'
+						}						
+						)
+					}).addTo(map);
+					
+					apin.bindPopup(resultObjects[i].attributes.Name + '\n' + resultObjects[i].attributes.Bio).openPopup();
+		
+				}
+				
+			}
+
+		//insert chart here
+if (myBarChart === undefined){
+
+	labelarray = labelarray.splice(0,25);
+	dataarray = dataarray.splice(0,25);
+	var data = {
+		labels: labelarray,
+		datasets: [
+			{
+				label: "My First dataset",
+				fillColor: "rgba(220,220,220,0.5)",
+				strokeColor: "rgba(220,220,220,0.8)",
+				highlightFill: "rgba(220,220,220,0.75)",
+				highlightStroke: "rgba(220,220,220,1)",
+				data: dataarray 
+			},
+		]
+	};
+
+	ctx = document.getElementById("myChart").getContext("2d");
+	myBarChart = new Chart(ctx).Bar(data,  { bezierCurve: false});	
+	
+} 	else{
+		var arrayLength = myBarChart.datasets[0].bars.length;
+			for (var i = 0; i < arrayLength; i++) {
+				myBarChart.removeData();
+			}
+			
+			arrayLength = labelarray.length;
+			if (arrayLength > 25)
+				arrayLength = 25
+			for (var i = 0; i < arrayLength; i++) {
+				myBarChart.addData([dataarray[i]], labelarray[i]);
+			}
+	}
+		
+
+
+// Get the context of the canvas element we want to select
+
+			
+		}
+    );
+	
+function DropPinOnMap(err, data) {
+
+	xPin = data.latlng[0];
+	yPin = data.latlng[1];
+    // The geocoder can return an area, like a city, or a
+    // point, like an address. Here we handle both cases,
+    // by fitting the map bounds to an area or zooming to a point.
+	//
+	ASCYNC_DONE = true;
+					
+	    if (data.lbounds) {
+        map.fitBounds(data.lbounds);
+    } else if (data.latlng) {
+        map.setView(xPin,yPin, 13);
+    }
+	
+	
+}
+
+	
+function showMap(err, data) {
+    // The geocoder can return an area, like a city, or a
+    // point, like an address. Here we handle both cases,
+    // by fitting the map bounds to an area or zooming to a point.
+    if (data.lbounds) {
+        map.fitBounds(data.lbounds);
+    } else if (data.latlng) {
+        map.setView([data.latlng[0], data.latlng[1]], 13);
+    }
+}
+
+
+popoto.result.onTotalResultCount(function (count) {
+    document.getElementById("result-total-count").innerHTML = "(" + count + ")";
+});
+popoto.logger.LEVEL = popoto.logger.LogLevels.INFO;
+popoto.start("Person");
+</script>
+</body>
+</html>

@@ -1,0 +1,70 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.charitablenetwork</groupId>
+	<artifactId>neorest</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+
+	<dependencies>
+		<dependency>
+			<groupId>org.neo4j</groupId>
+			<artifactId>neo4j</artifactId>
+			<version>2.3.1</version>
+		</dependency>
+		<dependency>
+			<groupId>org.neo4j</groupId>
+			<artifactId>neo4j-rest-graphdb</artifactId>
+			<version>2.0.1</version>
+		</dependency>
+		<dependency>
+			<groupId>org.jsoup</groupId>
+			<artifactId>jsoup</artifactId>
+			<version>1.8.3</version>
+		</dependency>
+		<dependency>
+			<groupId>net.sourceforge.htmlunit</groupId>
+			<artifactId>htmlunit</artifactId>
+			<version>2.19</version>
+		</dependency>
+	</dependencies>
+
+<dependency>
+    <groupId>com.sun.jersey</groupId>
+    <artifactId>jersey-server</artifactId>
+    <version>1.9</version>
+</dependency>
+<dependency>
+    <groupId>com.sun.grizzly</groupId>
+    <artifactId>grizzly-servlet-webserver</artifactId>
+    <version>1.9.18-i</version>
+</dependency>
+<dependency>
+<!-- jsoup HTML parser library @ http://jsoup.org/ -->
+<groupId>org.jsoup</groupId>
+<artifactId>jsoup</artifactId>
+<version>1.8.3</version>
+</dependency>
+
+<repository>
+    <id>maven2-repository.java.net</id>
+    <name>Java.net Repository for Maven</name>
+    <url>http://download.java.net/maven/2/</url>
+    <layout>default</layout>
+</repository>
+<repository>
+    <id>maven-repository.java.net</id>
+    <name>Java.net Maven 1 Repository (legacy)</name>
+    <url>http://download.java.net/maven/1</url>
+    <layout>legacy</layout>
+</repository>
+	<repositories>
+		<repository>
+			<id>mvn-neo4j</id>
+			<url>http://m2.neo4j.org/content/groups/everything</url>
+		</repository>
+	</repositories>
+
+</project>
+
+
+

@@ -1,0 +1,1 @@
+MATCH (p:Person)-[:LIKES]->(i:Interest), (p)-[r:HAS_ROLE]->(c:Company) where i.interestType in ['animal','culture'] RETURN DISTINCT p.Name, p.Bio, r.roleType, c.Name, c.raisedAmount, c.companySize, c.companyURL ORDER BY c.raisedAmount DESC LIMIT 25

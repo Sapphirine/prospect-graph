@@ -1,0 +1,56 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+.jumbotron {
+  background-color: #ddd;
+  /* height: 200px; */
+  font-size: 14pt;
+}
+#tagline {
+  margin: 0 auto;
+  width: 100%;
+  text-align: center;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+#search{
+  margin: 0 auto;
+}
+.input-group {
+  width: 50%;
+  margin: 0 auto;
+  font-size: 14pt;
+  text-align: center;
+  vertical-align: middle;
+  margin-top: 20px;
+}
+.form-control{
+  margin: 0 auto;
+}
+.input-group-addon {
+  background-color: #f7fbfd;
+  margin: 0 auto;
+  font-size: 14pt;
+}
+.clear {
+  clear: both;
+  height: 0px;
+}
+.navbar-inverse .navbar-brand {
+    color: white;
+    font-size: 16pt;
+}
+#logo {
+  float: right;
+}
+#keywords {
+    margin: 0 auto;
+    text-align: center;
+}
+#keywords > p {
+    font-size: 14pt;
+}
+
+

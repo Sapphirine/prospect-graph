@@ -1,0 +1,61 @@
+//---------------------------------------------------------------------------------------
+// create_PeopleTwitterNodes.cypher
+//
+// Desc: creates relationships from People to Twitter Follower Bucket Nodes 
+//       This will be used for Graph and data exploration and the final UI
+// Prerequisits: Ensure that the node creation scripts have already been run
+// Author:  Sam Guleff
+// Date  :  December 2015
+//
+//---------------------------------------------------------------------------------------
+
+//twitterId|all_TwitterFollowers
+//"1"|1-10
+//"2"|11-100
+//"3"|101-500
+//"4"|501-1000
+//"5"|1001-5000
+//"6"|5000+
+
+
+MATCH (p:Person), (r:FollowerCount)
+WHERE  (TOINT(p.followerCount) < 11 AND r.Name = "1-10")
+MERGE (p)-[:NUMBER_FOLLOWERS]->(r);
+
+MATCH (p:Person), (r:FollowerCount)
+WHERE  (TOINT(p.followerCount) >= 11 AND TOINT(p.followerCount) <= 100 AND r.Name = "11-100")
+MERGE (p)-[:NUMBER_FOLLOWERS]->(r);
+
+MATCH (p:Person), (r:FollowerCount)
+WHERE  (TOINT(p.followerCount) >= 101 AND TOINT(p.followerCount) <= 500 AND r.Name = "101-500")
+MERGE (p)-[:NUMBER_FOLLOWERS]->(r);
+
+MATCH (p:Person), (r:FollowerCount)
+WHERE  (TOINT(p.followerCount) >= 501 AND TOINT(p.followerCount) <= 1000 AND  r.Name = "501-1000")
+MERGE (p)-[:NUMBER_FOLLOWERS]->(r);
+
+MATCH (p:Person), (r:FollowerCount)
+WHERE  (TOINT(p.followerCount) >= 1001 AND TOINT(p.followerCount) <= 5000 AND r.Name = "1001-5000")
+MERGE (p)-[:NUMBER_FOLLOWERS]->(r);
+
+MATCH (p:Person), (r:FollowerCount)
+WHERE  (TOINT(p.followerCount) > 5000 AND r.Name = "5000+")
+MERGE (p)-[:NUMBER_FOLLOWERS]->(r);
+
+//RoleId|Name
+//"1"|acquirer
+//"2"|advisor
+//"3"|attorney
+//"4"|board_member
+//"5"|current_investor
+//"6"|customer
+//"7"|employee
+//"8"|founder
+//"9"|incubator
+//"10"|mentor
+//"11"|partner
+//"12"|past_investor
+
+MATCH (p:Person), (r:Role)
+WHERE  p.followerCount = "acquirer" AND r.Name = "acquirer")
+MERGE (p)-[:EMPLOYEE_TYPE]->(r);
